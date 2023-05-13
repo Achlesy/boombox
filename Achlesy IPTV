@@ -196,6 +196,11 @@ http://210.210.155.35/session/45df1d80-ec07-11ed-aeaf-b82a72d63267/dr9445/h/h20/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",-1  , DuniaLain
 http://www.goldentv.tech:25461/Bonek8/1234/25658
 
+#Lifestyle
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yQyq952/Eat-n-Go.png" group-title="Entertainment",-1  , Eat & Go
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
 #Sports
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",-1  , Usee Sport 1
