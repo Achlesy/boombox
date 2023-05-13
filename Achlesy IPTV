@@ -198,8 +198,8 @@ http://www.goldentv.tech:25461/Bonek8/1234/25658
 
 #Lifestyle
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yQyq952/Eat-n-Go.png" group-title="Entertainment",-1  , Eat & Go
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yQyq952/Eat-n-Go.png" group-title="Lifestyle",-1  , Eat & Go
+https://cdnjkt2.transvision.co.id/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 #Sports
 
