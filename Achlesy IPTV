@@ -41,7 +41,9 @@ http://www.goldentv.tech:25461/Bonek8/1234/25667
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772704.png" tvg-name="TvOne" group-title="Lokal Indonesia",-1   , TvOne
-http://210.210.155.35/session/dda16ad2-e7c6-11ed-b1c0-b82a72d63267/qwr9ew/s/s105/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772712.png" group-title="Lokal Indonesia",-1  , TV9 Nusantara
 http://www.goldentv.tech:25461/Bonek8/1234/39924
@@ -118,7 +120,9 @@ https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0CZbvGt1CxQUVMFI2
 #News
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772704.png" tvg-name="TvOne" group-title="News",-1   , TvOne
-http://210.210.155.35/session/dda16ad2-e7c6-11ed-b1c0-b82a72d63267/qwr9ew/s/s105/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772700.jpg" group-title="News",-1  , Metro TV
 https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
@@ -147,16 +151,24 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 http://www.goldentv.tech:25461/Bonek8/1234/39527
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",-1  , HBO
-http://www.goldentv.tech:25461/Bonek8/1234/24990
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",-1  , HBO Signature
-http://www.goldentv.tech:25461/Bonek8/1234/24991
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",-1  , HBO Family
-http://www.goldentv.tech:25461/Bonek8/1234/24992
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",-1  , HBO Hits
-http://www.goldentv.tech:25461/Bonek8/1234/24993
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #Kids
 
@@ -191,7 +203,9 @@ http://www.goldentv.tech:25461/Bonek8/1234/32596
 #Entertainment
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/343d6b10-ec16-11ed-8111-f77014b5ad47/4728211/837925771.jpg" group-title="Entertainment",-1  , TvN
-http://210.210.155.35/session/45df1d80-ec07-11ed-aeaf-b82a72d63267/dr9445/h/h20/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+https://anevi-live-channel-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",-1  , DuniaLain
 http://www.goldentv.tech:25461/Bonek8/1234/25658
