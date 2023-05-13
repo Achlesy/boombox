@@ -1,5 +1,10 @@
 ###########Achlesy IP-TV 3.0 Free#############
 
+#Info Playlist
+
+#EXTINF:-1 tvg-logo="logo" group-title="Lokal Indonesia",-1  , Info Playlist
+https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230513_203951.mp4
+
 #Lokal Indonesia
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772697.png" group-title="Lokal Indonesia",-1  , TVRI WORLD
