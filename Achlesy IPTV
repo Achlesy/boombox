@@ -220,6 +220,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",-1  , DuniaLain
 http://www.goldentv.tech:25461/Bonek8/1234/25658
 
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be2b660c5727/7f71d84d3d754fd98b8439ab612092b8.jpg" group-title="Entertainment",-1  , SERU Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
+
 #Lifestyle
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yQyq952/Eat-n-Go.png" group-title="Lifestyle",-1  , Eat & Go
