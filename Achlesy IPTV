@@ -194,7 +194,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s35/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDFnSL5c/gamingtv.jpg" group-title="Music",-1  , Musik Indonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x1njGCft/Musik-Indonesia.png" group-title="Music",-1  , Musik Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
