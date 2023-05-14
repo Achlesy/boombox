@@ -79,7 +79,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772716.png" group-title="Lokal Indonesia",-1  , KompasTV
-https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772708.png" group-title="Lokal Indonesia",-1  , JawaPos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
