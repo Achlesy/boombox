@@ -67,7 +67,9 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://www.goldentv.tech:25461/Bonek8/1234/25764
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772700.jpg" group-title="Lokal Indonesia",-1  , Metro TV
-https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+https://anevi-live-channel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772706.png" group-title="Lokal Indonesia",-1  , Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -99,7 +101,7 @@ http://group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
 http://op-group1-swiftservesd-1.dens.tv/s/s65/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",-1  , Usee Prime
-https://cdn09jtedge.indihometv.com/dvr/139/useeprime/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",-1  , Usee Prime Backup
 https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/playlist.m3u8
@@ -114,7 +116,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/343d6b10-ec16-11ed-8111-f77014b5ad47/4728211/837916949.jpg" group-title="Lokal Indonesia",-1  , BTV
-https://cdn09jtedge.indihometv.com/dvr/139/beritasatu/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+https://anevi-live-channel-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772719.png" group-title="Lokal Indonesia",-1  , ArekTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
@@ -130,7 +134,9 @@ https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G0CZbvGt1CxQUVMFI2
 https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772700.jpg" group-title="News",-1  , Metro TV
-https://cdn09jtedge.indihometv.com/dvr/139/metrotv/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+https://anevi-live-channel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772716.png" group-title="News",-1  , KompasTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
