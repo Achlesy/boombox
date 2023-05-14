@@ -319,3 +319,39 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-H
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nVjNQSQp/png-clipart-red-bull-tv-television-film-streaming-media-red-bull-television-text.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#Religi
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-title="Religi",-1  , Al-Quran Al-Kareem TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+https://anevi-live-channel-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png" group-title="Movies",-1  , Khazanah
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi",-1  , Muhammadiyah TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+https://anevi-live-channel-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_105.png" group-title="Religi",-1  , Tawaf TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+https://anevi-live-channel-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-title="Religi",-1  , Muslim TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772712.png" group-title="Religi",-1  , TV9 Nusantara
+http://www.goldentv.tech:25461/Bonek8/1234/39924
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/343d6b10-ec16-11ed-8111-f77014b5ad47/4728211/837916954.jpg" group-title="Religi",-1  , DAAI TV
+http://210.210.155.37/session/046c2a1a-ec06-11ed-aeaf-b82a72d63267/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/343d6b10-ec16-11ed-8111-f77014b5ad47/4728211/837916953.jpg" group-title="Religi",-1  , RodjaTV
+http://210.210.155.35/session/e3215f06-ec05-11ed-aeaf-b82a72d63267/qwr9ew/s/s14/01.m3u8
