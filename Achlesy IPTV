@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="logo" group-title="Admin",-1  , Info Playlist
 https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230513_203951.mp4
 
-#EXTINF:-1 tvg-logo="logo" group-title="Admin",-1  , Achlesy Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwVz8mZW/1684077889-picsay.png" group-title="Admin",-1  , Achlesy Music
 https://www.youtube.com/api/manifest/hls_variant/expire/1684100851/ei/kwJhZNSYKKKrmgeYnYLIDA/ip/2001%3A448a%3A50e1%3Ab8bb%3Aa5f6%3A4d3d%3Ab494%3Ae8ee/id/ade29p0saf0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJIk3E-HG12pcFA9FcTfrne3YqbmMgimcUICjrYC50CqAiAdaYSf89JDd4TOIt_0tIzU-X7xH8YTudnrpvRxBQCXYQ%3D%3D/file/index.m3u8
 
 #Lokal Indonesia
