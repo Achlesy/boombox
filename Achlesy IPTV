@@ -253,10 +253,31 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f218
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/miawme150x150.jpg" group-title="Kids",Miao Mi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e179c8d2ae0ddf520b905823d417f028:327c62356a811a1c0802cf0c4f5a1d50
+https://anevi-live-channel-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
+https://anevi-live-channel-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids",Kids TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+https://anevi-live-channel-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b64d0742be1/20220808025940.jpg" group-title="Kids",-1  , CartoonTV Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYNvYR77/Babyfirst-logo.png" group-title="Kids",Baby First
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqVpqPhX/Toon-Goggles-logo.png" group-title="Kids",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mZvtL1CV/2019-Disney-Channel-logo-svg.webp" group-title="Kids",Disney
 http://208.86.19.13:81/14.stream/index.m3u8
