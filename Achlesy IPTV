@@ -11,7 +11,8 @@ https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230513_203
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Lokal Indonesia",-1  , TVRI Sports
-http://210.210.155.35/session/749ce5a0-ec05-11ed-aeaf-b82a72d63267/qwr9ew/s/s107/01.m3u8
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+##http://210.210.155.35/session/749ce5a0-ec05-11ed-aeaf-b82a72d63267/qwr9ew/s/s107/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772695.png" group-title="Lokal Indonesia",-1  , TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
