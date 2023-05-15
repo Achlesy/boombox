@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="logo" group-title="Admin",-1  , Info Playlist
 https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230513_203951.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwVz8mZW/1684077889-picsay.png" group-title="Admin",-1  , Achlesy Music
-https://b7i4j3n3.stackpathcdn.com/achlesy/1684141781/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z52bt6p1/achmsc-logo-transparent.png" group-title="Admin",-1  , Achlesy Music
+https://b7i4j3n3.stackpathcdn.com/achlesy/1684165239/src/live.m3u8
 
 #Lokal Indonesia
 
@@ -303,8 +303,8 @@ http://www.goldentv.tech:25461/Bonek8/1234/26018
 
 #Music
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwVz8mZW/1684077889-picsay.png" group-title="Music",-1  , Achlesy Music
-https://b7i4j3n3.stackpathcdn.com/achlesy/1684141781/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z52bt6p1/achmsc-logo-transparent.png" group-title="Music",-1  , Achlesy Music
+https://b7i4j3n3.stackpathcdn.com/achlesy/1684165239/src/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPvLJc36/prambors.png" group-title="Music",-1  , Prambors
 https://streaming.indihometv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?enc=q5dR9Ykseto-QEv74QoxaA&exp=1684073000&encp=ZaD8YQIYNiz1RML3h1D6WA&expp=1684083500
