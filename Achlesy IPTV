@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="logo" group-title="Admin",-1  , Info Playlist
 https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230513_203951.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z52bt6p1/achmsc-logo-transparent.png" group-title="Admin",-1  , Achlesy Music
-https://b7i4j3n3.stackpathcdn.com/achlesy/1684165239/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBBq50kP/achlesy-music-logo.png" group-title="Admin",-1  , Achlesy Music
+https://b7i4j3n3.stackpathcdn.com/achlesy/1684219128/src/live.m3u8
 
 #Lokal Indonesia
 
@@ -53,9 +53,9 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772712.png" group-title="Lokal Indonesia",-1  , TV9 Nusantara
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
-https://anevi-live-channel-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/343d6b10-ec16-11ed-8111-f77014b5ad47/4728211/837914504.png" group-title="Lokal Indonesia",-1  , Suara Surabaya
 https://sin2.siar.us/ssfm/live/chunks.m3u8
@@ -303,8 +303,8 @@ http://www.goldentv.tech:25461/Bonek8/1234/26018
 
 #Music
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z52bt6p1/achmsc-logo-transparent.png" group-title="Music",-1  , Achlesy Music
-https://b7i4j3n3.stackpathcdn.com/achlesy/1684165239/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vBBq50kP/achlesy-music-logo.png" group-title="Music",-1  , Achlesy Music
+https://b7i4j3n3.stackpathcdn.com/achlesy/1684219128/src/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPvLJc36/prambors.png" group-title="Music",-1  , Prambors
 https://streaming.indihometv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?enc=FWt04WuQ2UPKoUPAZM7NOQ&exp=1684168884&encp=JtjLF3HA4DUBTF9em6el-g&expp=1684179384
