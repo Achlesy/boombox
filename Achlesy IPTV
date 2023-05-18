@@ -223,10 +223,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJ
 
 #Movies
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/aeb43de0-ec1c-11ed-b80b-9b210462f215/4728318/837926891.jpg" group-title="Movies",-1  , Thrill
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
-https://anevi-live-channel-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTINF:-1 tvg-logo="https://www.cubmu.com/_next/image?url=https%3A%2F%2Fcdnjkt2.transvision.co.id%3A1001%2Fimage%2Fweb%2Fchannel%2F4028c68574537fcd0174be26e4325724%2Fdf2bd1819bb74e2ea38e40ebf9d60e14.png&w=256&q=75" group-title="Movies",-1  , Bioskop Indonesia
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
