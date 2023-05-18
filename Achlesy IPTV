@@ -139,6 +139,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #News
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="News",TVONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
@@ -153,45 +154,60 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="News",CNN International
+#EXTINF:0 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="News",DW English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
-https://anevi-live-channel-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+#KODIPROP:inputstream.adaptive.license_key=4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
+https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#EXTINF:0 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="News",CNN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d063630b46d1c/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="News",CNBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
-https://anevi-live-channel-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/OuEwsDe.jpg?1" group-title="News",Russia Today
+#EXTINF:0 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/11/Fox-News-Channel-Logo.png" group-title="News",Fox News Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
+https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/800px-Russia-Today-Logo.svg.png" group-title="News",Russia Today
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02
-https://anevi-live-channel-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_353.png" group-title="News",CGTN
+#EXTINF:0 tvg-logo="https://cdn.pixabay.com/photo/2016/09/20/10/30/sea-1682198_960_720.png" group-title="News",SEA Today 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
+https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#EXTINF:0 tvg-logo="https://business.bell.ca/web/SHOP/Responsive/content/img/logos/CGTN-1.png" group-title="News",CGTN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
-https://anevi-live-channel-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="News",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
-https://anevi-live-channel-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mG2m5Je.jpg?1" group-title="News",EuroNews
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832" group-title="News",EuroNews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9acec565e4d5e994523b3b18e0a7521e:a16eb03e31229b194ec4b45c3cb80b46
-https://anevi-live-channel-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_350.png" group-title="News",ABC Australia Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
-https://anevi-live-channel-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/france_150px.jpg" group-title="News",France 24 English
+#EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/id/58694/png/france-24-logo.png" group-title="News",France 24 English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2968b8d8884c66ebfc54b53bee1070ee:7182638b386cb06e211b6771c1a10861
-https://anevi-live-channel-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857f48ecd2017f5e9c23f413e8/71cccc8985684c04808edf417b5ab89e.png" group-title="News",-1  , Wion TV
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -200,10 +216,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" group-title="News",Al Jazeera English
+#EXTINF:0 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera English
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f
-https://anevi-live-channel-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
 #Movies
 
