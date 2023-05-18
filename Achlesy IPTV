@@ -88,10 +88,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/343d6b10-ec16-11ed-8111-f77014b5ad47/4728211/837914498.jpg" group-title="Lokal Indonesia",-1  , Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772716.png" group-title="Lokal Indonesia",-1  , KompasTV
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Lokal Indonesia",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-https://anevi-live-channel-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772708.png" group-title="Lokal Indonesia",-1  , JawaPos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
@@ -148,10 +148,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772716.png" group-title="News",-1  , KompasTV
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="News",Kompas TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-https://anevi-live-channel-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnn_new.jpg" group-title="News",CNN International
 #KODIPROP:inputstream.adaptive.license_type=clearkey
