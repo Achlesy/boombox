@@ -114,10 +114,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",-1  , Usee Prime Backup
 https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/343d6b10-ec16-11ed-8111-f77014b5ad47/4728211/837916954.jpg" group-title="Lokal Indonesia",-1  , DAAI TV
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" group-title="Lokal Indonesia",DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
-https://anevi-live-channel-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772713.png" group-title="Lokal Indonesia",-1  , CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
