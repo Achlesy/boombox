@@ -268,80 +268,34 @@ http://www.goldentv.tech:25461/Bonek8/1234/23399
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
 http://210.210.155.35:80/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h08/01.m3u8
 
-#Gaming
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVkXVhry/GAMING-TV-removebg-preview.png" group-title="Gaming",-1  , GamingTV
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJVrpFS1/837914646-removebg-preview.png" group-title="Gaming",-1  , Dens Play
-http://op-group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
-
-#Lifestyle
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2sVZz2z/dlifestyle-removebg-preview.png" group-title="Lifestyle",-1  , Dens LifeStyle
-http://op-group1-swiftservesd-1.dens.tv/s/s65/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZMDgnL4/1280px-TLC-Logo-svg.png" group-title="Lifestyle",-1  , TLC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#https://nxanv-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZN1nXQN/eat-go.png" group-title="Lifestyle",-1  , Eat & Go
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
-
 #Sports
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Sports",-1  , TVRI Sports
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Sports",TVRI Sports
 http://210.210.155.35/session/d4e22bd8-f578-11ed-9654-b82a72d63267/qwr9ew/s/s107/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",-1  , Usee Sport 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",Usee Sport 1
 http://www.goldentv.tech:25461/Bonek8/1234/40232
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy6fyMSj/logo-useesports2-ver1.png" group-title="Sports",-1  , Usee Sport 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy6fyMSj/logo-useesports2-ver1.png" group-title="Sports",Usee Sport 2
 http://www.goldentv.tech:25461/Bonek8/1234/40233
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbzBWly78DU6VRi8EXBiMadcXXFfO2zr53YJPCawJa4uVL4kvzuWb8U4EwPyUFKHw8kiB2nPdM7UWBFaWT7PgyBtKK0OsjorMAAl9UvbpAUNtzsZOV8JJ-RAT7UA7mfYZeSO-zZ7BBc9n8OR7n-T6xamF6gKudrPdnzWmyO9q82NS-S-paY9uLyZzBw/s378/MNCSports_%282020%29.png" group-title="Sports",-1  , MNC Sports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbzBWly78DU6VRi8EXBiMadcXXFfO2zr53YJPCawJa4uVL4kvzuWb8U4EwPyUFKHw8kiB2nPdM7UWBFaWT7PgyBtKK0OsjorMAAl9UvbpAUNtzsZOV8JJ-RAT7UA7mfYZeSO-zZ7BBc9n8OR7n-T6xamF6gKudrPdnzWmyO9q82NS-S-paY9uLyZzBw/s378/MNCSports_%282020%29.png" group-title="Sports",MNC Sports
+http://www.goldentv.tech:25461/Bonek8/1234/41324
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO7aCEsokhZCw4eSbPRrQn4cnDxJXKUiF_jWJCXycbTkh1PUqv3-rjjcJCaCT0S_0L4EDeibHjKdq_PmX7mn9fBz7PNBABCTLXhglBAsJSgg5Qb4ysPrm3rNuph9CSEpYwRTlMhd6lWqDKV00-kg8U7ZUuJrhWai6fMGtMFwcob6t1hT1PQZ-CyxYzkw/s378/MNC_Sports_2_%282020%29.png" group-title="Sports",-1  , MNC Sports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO7aCEsokhZCw4eSbPRrQn4cnDxJXKUiF_jWJCXycbTkh1PUqv3-rjjcJCaCT0S_0L4EDeibHjKdq_PmX7mn9fBz7PNBABCTLXhglBAsJSgg5Qb4ysPrm3rNuph9CSEpYwRTlMhd6lWqDKV00-kg8U7ZUuJrhWai6fMGtMFwcob6t1hT1PQZ-CyxYzkw/s378/MNC_Sports_2_%282020%29.png" group-title="Sports",MNC Sports 2
+http://www.goldentv.tech:25461/Bonek8/1234/41325
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv9liJsRfKF_oLyIEhSQzY3fWbH2Cj-d_iLW6MNa4bZJqUqMnZrDtLkcXLC1qxkbwVJOTYbI4rTNPNmdlTyXIN9oc6ABuYxvOSVcAEsCmnnaQHbb0Yo7gn9kq1SUKlwlQg838q6lsKy86_bwiFMJhtmnOJ1v-8uwdeuqWUzo7nRafGFWa6rc15FwOZ_g/s150/channel_99-removebg-preview.png" group-title="Sports",-1  , MNC Sports 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMHxhX7cvSiGODFRUeTK2Z5a7PPjD9pOfxDZjpySgQUbln2oi0MUWXLwAJuosPyvixqpZJdrWBX0EEBn-mu-3Bbw4p9aasB6PIkoQ3ns8ukV9fSdL2ysM4GEwOdLi-5EPObzs7egYJSkShstjP_WSwauBxPlz_Jpv0-tni71FVnXmIz0mbT5BemhLdQ/s600/FIGHT_SPORTS_2018.png" group-title="Sports",Fight Sports
+http://www.goldentv.tech:25461/Bonek8/1234/39494
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMHxhX7cvSiGODFRUeTK2Z5a7PPjD9pOfxDZjpySgQUbln2oi0MUWXLwAJuosPyvixqpZJdrWBX0EEBn-mu-3Bbw4p9aasB6PIkoQ3ns8ukV9fSdL2ysM4GEwOdLi-5EPObzs7egYJSkShstjP_WSwauBxPlz_Jpv0-tni71FVnXmIz0mbT5BemhLdQ/s600/FIGHT_SPORTS_2018.png" group-title="Sports",-1  , Fight Sports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYfQs_C_YTsox4opZQWcpcezsL5Mvsj6TfGDSXTcvaTZiMGytFFM13VNwxndW9wQzXHpL_AhDNPi8gLPbcxt_XMgh8HkpepjSXRIOD7l-wlGj_BND8qrdcahYqnVLBYzMLPBx9Y4vJ7WVtbAS6U1YLRJfXPv1aX-wLvae77mSqYtNo5SXouPNOwTuhoA/s150/channel_101-removebg-preview.png" group-title="Sports",-1  , Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYfQs_C_YTsox4opZQWcpcezsL5Mvsj6TfGDSXTcvaTZiMGytFFM13VNwxndW9wQzXHpL_AhDNPi8gLPbcxt_XMgh8HkpepjSXRIOD7l-wlGj_BND8qrdcahYqnVLBYzMLPBx9Y4vJ7WVtbAS6U1YLRJfXPv1aX-wLvae77mSqYtNo5SXouPNOwTuhoA/s150/channel_101-removebg-preview.png" group-title="Sports",Soccer Channel
+http://www.goldentv.tech:25461/Bonek8/1234/22975
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggtDTiIViszfKmdFHwxb38BJbnD1ClUIGxBGokzeCSWo1yF5tlEtL6PrEWytb5PdmDsE7kRYGsviitKMeQ5-RNilcCUZNubeqQ6o6oz2WVfpBfThgdUZ20EqlJqsIZf2HwIgB75ZBYQLQyan6tTme-i3ZkCUeTX3KX-ZGOXArc9utZyH-hPbQoSA-nfw/s640/SPOTV_logo.svg.png" group-title="Sports",-1  , SPOTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25017
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_JSXXrnJmHOtczYuaapXXg6TV8tYhNnPcsh9JrLsf0oKz7nbi98TU9MuatLWCusPxWzIQi97kGid3twiy7U4Hw_DIVF4KHmwkGBSOLODTLTuYXl_572fsVifYqX-vBpozpeMjwJA9aTjLRfM9tm4JrqCbrCY6CAMlu8DomkBUblCE0Bt63dda1VG-RA/s436/SPOTV2_logo_2018.png" group-title="Sports",-1  , SPOTV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/39807
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN4fSX7s/Red-Bull-TV-logo.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -353,54 +307,23 @@ http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium404/index.m3u8
+http://www.goldentv.tech:25461/Bonek8/1234/25219
 
 #Religi
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-title="Religi",-1  , Al-Quran Al-Kareem TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-title="Religi",Al-Quran Al-Kareem TV
+http://www.goldentv.tech:25461/Bonek8/1234/39925
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6xXNFLT/khazanah.png" group-title="Religi",-1  , Khazanah
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi",-1  , TV Muhammadiyah
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi",TV Muhammadiyah
+http://www.goldentv.tech:25461/Bonek8/1234/22736
 
 #EXTINF:-114 group-title="Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaCNcm8NuKSgV0e7F3NBFM0iVfRcV-hjmcgXeTQB83e3U5PerFd06WoQRVHM2jPBhVLoxPq1POYNo7iyxpRrqT_pDIkSxuexc-m2Fi2-nrgiwD9lq6cxxoowZA70l7UJyFJ9O4qodW0zWSvN0x8XQ4wVkeaR8GxY9-mLeWB5LBOTOdXgbsH2tP6w7rw/s667/citra_muslim-removebg-preview.png",Citra Muslim
 http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxNdXbFR/tawaftv-removebg-preview.png" group-title="Religi",-1  , Tawaf TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYZSrWx2/Muslim-TV-2020.png" group-title="Religi",-1  , Muslim TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQdvgv00/TV9-NUSANTARA1.png" group-title="Religi",-1  , TV9 Nusantara
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Religi",-1  , RodjaTV
-http://210.210.155.35/session/e3215f06-ec05-11ed-aeaf-b82a72d63267/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxNdXbFR/tawaftv-removebg-preview.png" group-title="Religi",Tawaf TV
+http://www.goldentv.tech:25461/Bonek8/1234/22727
 
 #Radio
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1pDEpKK.png" group-title="Radio",-1  , Suara Surabaya
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pDEpKK.png" group-title="Radio",Suara Surabaya
 https://sin2.siar.us/ssfm/live/chunks.m3u8
