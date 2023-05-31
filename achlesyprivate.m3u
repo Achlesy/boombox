@@ -41,7 +41,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/25668
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772701.png" group-title="Lokal Indonesia",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="Lokal Indonesia",-1  , GTV
+#EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="Lokal Indonesia",GTV
 http://www.goldentv.tech:25461/Bonek8/1234/25667
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yLiKLbD.png" group-title="Lokal Indonesia",RTV
@@ -53,16 +53,16 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
 http://www.goldentv.tech:25461/Bonek8/1234/25719
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",-1  , Elshinta TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",Elshinta TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Lokal Indonesia",-1  , RodjaTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Lokal Indonesia",RodjaTV
 http://210.210.155.35/session/e3215f06-ec05-11ed-aeaf-b82a72d63267/qwr9ew/s/s14/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772705.png" group-title="Lokal Indonesia",-1  , NET TV HD
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772705.png" group-title="Lokal Indonesia",NET TV HD
 http://www.goldentv.tech:25461/Bonek8/1234/25693
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZFJCzqX/Moji-blue-svg.webp" group-title="Lokal Indonesia",-1  , Moji TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZFJCzqX/Moji-blue-svg.webp" group-title="Lokal Indonesia",Moji TV
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vZFJCzqX/Moji-blue-svg.webp" group-title="Lokal Indonesia",MojiTV Backup
@@ -83,13 +83,13 @@ http://www.goldentv.tech:25461/Bonek8/1234/25695
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nzt3dJ7.png" group-title="Lokal Indonesia",JawaPos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKR9dNfw/GarudaTv.png" group-title="Lokal Indonesia",-1  , GarudaTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKR9dNfw/GarudaTv.png" group-title="Lokal Indonesia",GarudaTV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",-1  , Usee Prime
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",-1  , Usee Prime Backup
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime Backup
 https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" group-title="Lokal Indonesia",DAAI TV
