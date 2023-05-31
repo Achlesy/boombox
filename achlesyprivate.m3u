@@ -196,14 +196,12 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 http://www.goldentv.tech:25461/Bonek8/1234/26061
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/26056
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/sgfSK5cW/Kids-TV-2020.png" group-title="Kids",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#EXTINF:0 tvg-logo="https://i.postimg.cc/sgfSK5cW/Kids-TV-2020.png" group-title="Kids",Kids TV
+http://watchlive.my.id/sa_dash_vmx/KidsChannel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAFpbIt.png" group-title="Kids",-1  , CartoonTV Premium
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
