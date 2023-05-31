@@ -53,6 +53,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
 http://www.goldentv.tech:25461/Bonek8/1234/25719
 
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="Lokal Indonesia™",IDX
+http://www.goldentv.tech:25461/Bonek8/1234/41099
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",Elshinta TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
 
@@ -101,7 +104,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Fw7pHX/logo-hitam-removebg-preview.png" group-title="Lokal Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:0 #EXTINF:0 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="Lokal Indonesia",BTV
+#EXTINF:0 #EXTINF:0 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="Lokal Indonesia",BeritaSatu TV
 http://www.goldentv.tech:25461/Bonek8/1234/25691
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772719.png" group-title="Lokal Indonesia",ArekTV
@@ -138,10 +141,10 @@ http://www.goldentv.tech:25461/Bonek8/1234/25976
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Movies",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PfCPfTXB/galaxy-removebg-preview.png" group-title="Movies",Galaxy
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PfCPfTXB/galaxy-removebg-preview.png" group-title="Movies",Galaxy Channel
 http://www.goldentv.tech:25461/Bonek8/1234/25981
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium
+#EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium Channel
 http://www.goldentv.tech:25461/Bonek8/1234/25982
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.postimg.cc/SRYwDD5R/citra-bioskop-channel-tv-logo.png" group-title="Movies",Citra Bioskop
