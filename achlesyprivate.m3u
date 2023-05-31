@@ -233,11 +233,6 @@ http://www.goldentv.tech:25461/Bonek8/1234/25482
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIR9vzfEq3yx7743hbwFdUGGpTTRgXCpO2vyV_3sw4RoOfQ4S80F9saZstNPSmyHEsJnYV5xssWjTV_kVlL__DqAKeEc7y1bt9sZZt82BrNK668gIueTuTnxkzgEteMstGKWGIL6a4DoMMArlqnfMUDqiE5XLAe-TJ52JO2JOklFBAooIikHI36rG8_g/s625/cdangdut-removebg-preview.png" group-title="Music",Citra Dangdut
 http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp3PvWTt/1200px-MTV-Live-svg.png" group-title="Music",-1  , MTV Live
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtu_aaAVo-LSsaf3ng1hYLZNVfDx-OD1Nqnw6OgPD6bVrI1NyHH42usgPy7NuxsQxB37phOdcuz-fAln5Bd3aS81ChB3Z30jscKyX-_RgD6DvVdPSt5bQk1VW4rH1hQ2WqkBoosGfUQ6LQ4jIQRuOOrs5uQ5kSxRW8uXr5fGwB6WRiKXcKbw1ndJCcA/s1200/1200px-MTV_HD_Logo_2015.svg.png" group-title="Music", MTV HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
 
@@ -247,44 +242,14 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&exten
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkcSTlU6V0P1IRL_ZzNgtxOYbZ1uZxTCFBe6Z_2rYaeyvXlVNc8hQImOyMTs1svpPQmSfBzeHUPvUEIP1ySQNEii3piVtNYe7LQNrsFv4tN71QE0uGNP6h00xyc-48XDH_poEukPohPSanCU7UzP1Rsz0-ixNKelpWQf6gKa8JZS2QRNphrZU87Zd4vQ/s1200/1200px-MTV_Classic_2013_logo.svg.png" group-title="Music", MTV Classic
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&extension=ts&play_token=xGAbSRTiiG
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxQ5s6Zy/Music-TV-29.png" group-title="Music",-1  , MusicTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hSXc0Zq/NUSANTARA-removebg-preview.png" group-title="Music",-1  , Nusantara
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZngHCHsP/song-tv-removebg-preview.png" group-title="Music",-1  , Song TV
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5K06zBh/Clubbing-TV.png" group-title="Music",-1  , Clubbing TV
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XgMkKqg/musik-indo.png" group-title="Music",-1  , Musik Indonesia
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
-
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/NG24b1cb/logo-citradangdut-ver1.png" group-title="Music",-1  , Citra Dangdut
-##https://cdn12jtedge.indihometv.com/joss/130/citradangdut/chunklist_w89240326_b1044100_sleng.m3u8?enc=wYNqRUQwbnF6Wu-KfCk0Kw&uid=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJiMWZlN2MyOC01OGIzLTNhZjJmLTdhNjA5NjdmYjg3NSIsImVtYWlsIjoiYWNobGVzeW1hbjEwM0BnbWFpbC5jb20iLCJsb2dpblN0YXR1cyI6dHJ1ZSwic3Vic2NyaWJlcl9pZCI6IjE4NDE5ODQiLCJmdWxsbmFtZSI6IkRhZmZhIEltYW4iLCJkZXZpY2VJZCI6IloyVjBYMlJsZG1salpWOXBaSHd6Tmk0NE5DNHhPVEV1TVRNM0xUWTBORVV4UkRGQ05EUXdPVFE9IiwiaWQiOjkxOTcxOSwiZXhwIjoxNjg0NTYxMDk3LCJpYXQiOjE2ODM5NTYyOTcsImlzcyI6IlVzZWVUVkdPIn0.hvbV3R11Rv7gWCbDdjWslqZ9fkPQn7JHKpMS4V0EGh2vMH6Y2Mj5dZBTvwh1SEry6TeN8hOqKFqosnk8vTnrRNuownVffHYDWgZgomrVhJIPK0laGZeSRuGBSU3536WrUhRgjS6NYu5mLSqGyZRKiub_jT84LOigw2TkJYTOiooX6KKuw_0erTxdmiWaE5Z7Niv0YecxOcZ8NC5qL12PhgMimIjXiUzAeCHr9SLCNDpMBiHjGTGbubFNgRA6aSfqUQTlIE5mvroXB4lFN-l5Ev4vn5GusdlTzinqsxoSkz8M6CYdb835FK5sdH5nk2leXwUcTlrNy8-wO4ANoH2uQtEzu2M0DjQKgWxw34maQAu04SNUCnpEc-vmAB67Me4pja3V-uGQjxy9UGG5rXe4rBTQ0B_U7wVX-lVRJjnSmwIXeYPveVf_sDL1fpZEVgblGPSmJcqDkYXF2MCUyLiKpLqFD9qFjbMycVnN6f6wX_rlNFSQcnVfIOMBerjVryorsI_okx2ylY-QJL3BnVhYc8yr01BI7wf4dvzHB4DYobZWvR2Jv3XYj3Xk2cxFAa1rOkfFSLBdKcC24j9c0lwcysIL8ihTHLPeNPpu1PfBmo-tbl8c8vqraC_TGnFutHHESRUBZhvmzWChPAWNEEQSNiD-N-gtcSooMRuOW79ovBs&exp=1684066340
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsX7bGYm/Retro-Music-TV-logo.png" group-title="Music",-1  , RetroTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FsX7bGYm/Retro-Music-TV-logo.png" group-title="Music",RetroTV
 http://www.goldentv.tech:25461/Bonek8/1234/32596
+
+#EXTINF:-1 tvg-id="" tvg-name="Ru Music" tvg-logo="" group-title="Music",Ru Music
+http://www.goldentv.tech:25461/Bonek8/1234/32606
+
+#EXTINF:-1 tvg-id="" tvg-name="V2Beats" tvg-logo="" group-title="Music",V2Beats
+http://www.goldentv.tech:25461/Bonek8/1234/32607
 
 #Entertainment
 
@@ -297,46 +262,16 @@ http://www.goldentv.tech:25461/Bonek8/1234/32596
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:0 tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",TVN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
-https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25974
 
-#EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment", Sony GEM 
+#EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",Sony GEM 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
-#EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="Entertainment",Arirang World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
-https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
+http://www.goldentv.tech:25461/Bonek8/1234/23399
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment", AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",-1  , K Plus
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
 http://210.210.155.35:80/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h08/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHvWFwRq/Insert-logo.png" group-title="Entertainment",-1  , Insert
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MX2v7gQt/seru.png" group-title="Entertainment",-1  , SERU Channel
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",-1  , DuniaLain
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #Gaming
 
