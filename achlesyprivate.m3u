@@ -8,65 +8,46 @@ https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230524_083
 
 #Lokal Indonesia
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j7V0epU.png" group-title="Lokal Indonesia",-1  , TVRI WORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7V0epU.png" group-title="Lokal Indonesia",TVRI WORLD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgXbSK8L/dens-showbiz-removebg-preview.png" group-title="Lokal Indonesia",-1  , Dens ShowBiz
-http://op-group1-swiftservesd-1.dens.tv/s/s35/S4/mnf.m3u8
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Lokal Indonesia",-1  , TVRI Sports
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Lokal Indonesia",TVRI Sports
 http://210.210.155.35/session/d4e22bd8-f578-11ed-9654-b82a72d63267/qwr9ew/s/s107/01.m3u8
-##http://210.210.155.35/session/749ce5a0-ec05-11ed-aeaf-b82a72d63267/qwr9ew/s/s107/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772695.png" group-title="Lokal Indonesia",-1  , TVRI Nasional
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772695.png" group-title="Lokal Indonesia",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0JXIwM.png" group-title="Lokal Indonesia",Mentari TV
 http://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772699.png" group-title="Lokal Indonesia",-1  , TransTV
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772699.png" group-title="Lokal Indonesia",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772703.png" group-title="Lokal Indonesia",-1  , ANTV
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772703.png" group-title="Lokal Indonesia",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TK0dflQ.png" group-title="Lokal Indonesia",-1  , INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TK0dflQ.png" group-title="Lokal Indonesia",INDOSIAR
 http://www.goldentv.tech:25461/Bonek8/1234/25686
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCupzni.png" group-title="Lokal Indonesia",-1  , RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCupzni.png" group-title="Lokal Indonesia",RCTI
+http://www.goldentv.tech:25461/Bonek8/1234/25665
 
-#EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JH1rTEiqoCd7CyoRpUoM0t_mWJU_jLHSNKqbK6lsuCef.png" group-title="Lokal Indonesia",-1  , MNCTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JH1rTEiqoCd7CyoRpUoM0t_mWJU_jLHSNKqbK6lsuCef.png" group-title="Lokal Indonesia",MNCTV
+http://www.goldentv.tech:25461/Bonek8/1234/25666
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRnLbxVEeNNzGqJPbheCwhqg97x4W5zrxeU6_eZgQ7t_QWQ78PcQp08Yj48WzBXTYwREmoRdZVZ0w1eEIOUdOKogSa8FAtTFY-NqJs9FZE_voYOdtRr3hI8l46RUpHaCxcaASXzLcNqJVxZZdczeZJDhohnWIEjJHww2jcrgoqJvEtOp4B8UGMeq9WyA/s182/MNC_News.png" group-title="Lokal Indonesia",-1  , MNC News
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhduPyvtC_BWKB6z9OX-zRzqY4Qu-APtzJkNKUx31VtAkU0PgCdnqyNdJ9ukzyXeW3jsN-TRfoqgVNyCjh1RvbWfp5zsJX50fhh1wdpMLQYBQM4jZIA6K9_XVCTKVyt_GBY-M8MuMaQLnsQbgQtqAN_leo7n8SE304gnCYLLNULTdm0wCfOgUo6GgSOaA/s2533/INews.png" group-title="Lokal Indonesia",iNews
+http://www.goldentv.tech:25461/Bonek8/1234/25668
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhduPyvtC_BWKB6z9OX-zRzqY4Qu-APtzJkNKUx31VtAkU0PgCdnqyNdJ9ukzyXeW3jsN-TRfoqgVNyCjh1RvbWfp5zsJX50fhh1wdpMLQYBQM4jZIA6K9_XVCTKVyt_GBY-M8MuMaQLnsQbgQtqAN_leo7n8SE304gnCYLLNULTdm0wCfOgUo6GgSOaA/s2533/INews.png" group-title="Lokal Indonesia",-1  , iNews
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772701.png" group-title="Lokal Indonesia",-1  , SCTV
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772701.png" group-title="Lokal Indonesia",SCTV
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="Lokal Indonesia",-1  , GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25667
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yLiKLbD.png" group-title="Lokal Indonesia",-1  , RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1  tvg-id="BALITV.id" group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",Bali TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
