@@ -115,11 +115,6 @@ http://www.goldentv.tech:25461/Bonek8/1234/25681
 #EXTINF:0 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="News",DW English
 http://210.210.155.37/session/7a717784-ff83-11ed-9663-b82a72d63267/x6bnqe/s/s25/S4/mnf.m3u8
 
-#EXTINF:0 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/11/Fox-News-Channel-Logo.png" group-title="News",Fox News Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
-https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
-
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="News",CNA
 http://210.210.155.35/session/7d946dce-ff9a-11ed-a64a-c81f66f89318/uq2663/h/h29/01.m3u8
 
