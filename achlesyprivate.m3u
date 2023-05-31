@@ -21,7 +21,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 http://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772699.png" group-title="Lokal Indonesia",TransTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+http://www.goldentv.tech:25461/Bonek8/1234/25684
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772703.png" group-title="Lokal Indonesia",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
@@ -44,26 +44,17 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="Lokal Indonesia",-1  , GTV
 http://www.goldentv.tech:25461/Bonek8/1234/25667
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yLiKLbD.png" group-title="Lokal Indonesia",-1  , RTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yLiKLbD.png" group-title="Lokal Indonesia",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1  tvg-id="BALITV.id" group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",Bali TV
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25719
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",-1  , Elshinta TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQdvgv00/TV9-NUSANTARA1.png" group-title="Lokal Indonesia",-1  , TV9 Nusantara
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Lokal Indonesia",-1  , RodjaTV
 http://210.210.155.35/session/e3215f06-ec05-11ed-aeaf-b82a72d63267/qwr9ew/s/s14/01.m3u8
@@ -78,31 +69,19 @@ http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 http://www.goldentv.tech:25461/Bonek8/1234/25764
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Lokal Indonesia",Metro TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25722
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772706.png" group-title="Lokal Indonesia",-1  , Magna Channel
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772706.png" group-title="Lokal Indonesia",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-##EXTINF:-1 tvg-logo="https://i.postimg.cc/0jTsmXQK/BN-Channel.png" group-title="Lokal Indonesia",-1  , BN Channel
-##https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683987103/ei/P0ZfZJDuHYf74-EPx7CC6Ac/ip/2001%3A448a%3A50e1%3Ab8bb%3Ad18b%3A9fee%3A8192%3A7a14/id/0Kln8aj0v3E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIfMut1gpocwiPcDbj6DIMCKQxBjvxEWqTY5ls9umZaewIhAIt8_StTj-ZJBJ1OyGkhyfKqq657jTttXXvbUHUWAI5M/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x4tdXls.png" group-title="Lokal Indonesia",-1  , Madu TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4tdXls.png" group-title="Lokal Indonesia",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Lokal Indonesia",Kompas TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25695
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nzt3dJ7.png" group-title="Lokal Indonesia",-1  , JawaPos TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzt3dJ7.png" group-title="Lokal Indonesia",JawaPos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D1caPmP.png" group-title="Lokal Indonesia",-1  , JakTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://nxanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKR9dNfw/GarudaTv.png" group-title="Lokal Indonesia",-1  , GarudaTV
 http://103.119.54.246:8080/hls/bbstv.m3u8
@@ -114,28 +93,22 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44
 https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" group-title="Lokal Indonesia",DAAI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
-https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+http://210.210.155.37/session/ff79fe50-ff98-11ed-a120-c81f66f89318/qwr9ew/s/s13/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772713.png" group-title="Lokal Indonesia",-1  , CNN Indonesia
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772713.png" group-title="Lokal Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/02Fw7pHX/logo-hitam-removebg-preview.png" group-title="Lokal Indonesia",-1  , CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/02Fw7pHX/logo-hitam-removebg-preview.png" group-title="Lokal Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:0 #EXTINF:0 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="Lokal Indonesia",BTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
-https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25691
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772719.png" group-title="Lokal Indonesia",-1  , ArekTV
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772719.png" group-title="Lokal Indonesia",ArekTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-HQ0BoR9WfbA/VM5wXxFjkoI/AAAAAAAAAG0/UIAegQIiXqU/s1600/trans7-amiz.png" group-title="Lokal Indonesia",Trans 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+http://www.goldentv.tech:25461/Bonek8/1234/25681
 
 #News
 
