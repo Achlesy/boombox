@@ -169,16 +169,17 @@ http://www.goldentv.tech:25461/Bonek8/1234/26000
 http://www.goldentv.tech:25461/Bonek8/1234/39527
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
+http://www.goldentv.tech:25461/Bonek8/1234/24990
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
+http://www.goldentv.tech:25461/Bonek8/1234/24993
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
+http://www.goldentv.tech:25461/Bonek8/1234/24992
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
+http://www.goldentv.tech:25461/Bonek8/1234/24991
 
 #Kids
 
