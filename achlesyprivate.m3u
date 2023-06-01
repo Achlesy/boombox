@@ -5,7 +5,6 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdXSNV1w/info.png" group-title="Admin",Info Playlist
 https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230524_083422.mp4
 
-
 #Lokal Indonesia
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j7V0epU.png" group-title="Lokal Indonesia",TVRI WORLD
@@ -159,6 +158,9 @@ http://www.goldentv.tech:25461/Bonek8/1234/25977
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yNVY9zFX/HITS-MOVIES-ASIA.webp" group-title="Movies",Hits Movies
 http://www.goldentv.tech:25461/Bonek8/1234/39815
 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BZ1gRWKC/cinema-world-black.png" group-title="Movies",Cinema World
+http://210.210.155.35/session/9f0a8a60-0012-11ee-8f3f-c81f66f89318/dr9445/h/h04/01.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/v8zBYTf8/imc.png" group-title="Movies",IMC
 http://www.goldentv.tech:25461/Bonek8/1234/25994
 
@@ -229,6 +231,9 @@ http://www.goldentv.tech:25461/Bonek8/1234/26025
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
 http://www.goldentv.tech:25461/Bonek8/1234/26026
 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg58ShC_Yr48ix3zDVmYhzNXVvk1eTYDEgPa65ezdKJiIszCspVmaa4DQ_rRwjoAWoAZvadmIXvhFAposE9W2BrgUfw5UKyGlAVo8ArBfKhEO8Rvpx4Fc93zXqmVViELad6NY66d0gLRI2UGQ1ZNp7aIE4Azg-pZfiB4T5XK4_yvw-lS4SXF86obmfH5w/s2566/UPLOAD-1655920070-.png" group-title="Kids",My Kidz
+http://210.210.155.35/session/691d0b24-fffb-11ed-9663-b82a72d63267/x6bnqe/h/h191/index.m3u8
+
 #Knowledge
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",National Geographic
@@ -278,10 +283,16 @@ http://www.goldentv.tech:25461/Bonek8/1234/32607
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:0 tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",TVN
-http://www.goldentv.tech:25461/Bonek8/1234/25974
+http://210.210.155.35/session/ded282fc-0011-11ee-8f3f-c81f66f89318/dr9445/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",Sony GEM 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1vrIlMsth1Y/X6jBVoKArgI/AAAAAAAABvs/fkRLjRtjhRcCZcZGcE2DBwVwhjKOgfoXwCLcBGAsYHQ/w1200-h630-p-k-no-nu/1200px-KIX_logo.svg.png" group-title="Entertainment",KIX
+http://210.210.155.35/session/26830928-0012-11ee-8f3f-c81f66f89318/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="MOVIES™",Hits
+http://www.goldentv.tech:25461/Bonek8/1234/39964
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
 http://www.goldentv.tech:25461/Bonek8/1234/23399
@@ -294,6 +305,9 @@ http://www.goldentv.tech:25461/Bonek8/1234/23401
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
 http://210.210.155.35:80/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4vJac7LT51Auftk1qcXsM__k9M3iyhTJNGB3nVq-o1qXdz3remRRtVRcaQngPzsiu10YD-9tZcfbvKFZYOr1ckR2sXY0w6Zbm9yN0l7pQ0MsUWS8XK5GKNQur2lnA8F7fk1F5268TeHe4WkisRV-58AlrVU08rVIb6o_XmL4a0ffJyv-Rv6jAS14Xg/s1200/Rock_Entertainment.png" group-title="Entertainment",-1  , Rock Entertainment
+http://210.210.155.35/session/fe0b0242-0012-11ee-8f3f-c81f66f89318/dr9445/h/h16/01.m3u8
 
 #Sports
 
@@ -313,7 +327,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/41324
 http://www.goldentv.tech:25461/Bonek8/1234/41325
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMHxhX7cvSiGODFRUeTK2Z5a7PPjD9pOfxDZjpySgQUbln2oi0MUWXLwAJuosPyvixqpZJdrWBX0EEBn-mu-3Bbw4p9aasB6PIkoQ3ns8ukV9fSdL2ysM4GEwOdLi-5EPObzs7egYJSkShstjP_WSwauBxPlz_Jpv0-tni71FVnXmIz0mbT5BemhLdQ/s600/FIGHT_SPORTS_2018.png" group-title="Sports",Fight Sports
-http://www.goldentv.tech:25461/Bonek8/1234/39494
+http://210.210.155.35/session/dc43da1c-0012-11ee-8f3f-c81f66f89318/dr9445/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYfQs_C_YTsox4opZQWcpcezsL5Mvsj6TfGDSXTcvaTZiMGytFFM13VNwxndW9wQzXHpL_AhDNPi8gLPbcxt_XMgh8HkpepjSXRIOD7l-wlGj_BND8qrdcahYqnVLBYzMLPBx9Y4vJ7WVtbAS6U1YLRJfXPv1aX-wLvae77mSqYtNo5SXouPNOwTuhoA/s150/channel_101-removebg-preview.png" group-title="Sports",Soccer Channel
 http://www.goldentv.tech:25461/Bonek8/1234/22975
@@ -332,9 +346,6 @@ http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
 http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="nbatv" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV
-http://www.goldentv.tech:25461/Bonek8/1234/25219
 
 #Religi
 
