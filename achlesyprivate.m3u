@@ -76,6 +76,12 @@ http://www.goldentv.tech:25461/Bonek8/1234/25722
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772706.png" group-title="Lokal Indonesia",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jTsmXQK/BN-Channel.png" group-title="Lokal Indonesia",BN Channel
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0-KV9xmRUIBNseQC6mVUNyMVETDbK44fl_4Bgye9HLc8Zr61NHJjoN5B5fTiNuolJEQSh_HMGM05ZZ1VUcnLGHM-NGnPm0fSkKVwPfXys7fzEYvR9bqeITJh5UjwdIhgFXVZ39PhVl2rtZmNR6cCEh3CoUK4pOYy86GngI2xJvjrPdMpQO80VWEciA/s200/Metro_Globe_Network.png" group-title="Lokal Indonesia",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w1067563232_b3884000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x4tdXls.png" group-title="Lokal Indonesia",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
