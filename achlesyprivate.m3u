@@ -318,6 +318,20 @@ http://210.210.155.35:80/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin4vJac7LT51Auftk1qcXsM__k9M3iyhTJNGB3nVq-o1qXdz3remRRtVRcaQngPzsiu10YD-9tZcfbvKFZYOr1ckR2sXY0w6Zbm9yN0l7pQ0MsUWS8XK5GKNQur2lnA8F7fk1F5268TeHe4WkisRV-58AlrVU08rVIb6o_XmL4a0ffJyv-Rv6jAS14Xg/s1200/Rock_Entertainment.png" group-title="Entertainment",-1  , Rock Entertainment
 http://210.210.155.35/session/fe0b0242-0012-11ee-8f3f-c81f66f89318/dr9445/h/h16/01.m3u8
 
+#Gaming
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRmRZFVddmXgZ7Mp1RNuA9UElmRr4BGxfBr0QCBjYKXH9W8rhW9AWGVzcFUtGYoYEVWjw5EgCLDAEI9X5IvezqBdXkDbKC3YeITgI3uPTQYEPHF0jGUo5oPFEbhR1waeSkBdkHzT8Z4rGlEZxlaNc5xJ0gFMJAy3F443tEtrg8LqrDHK9vqxa5ISAeRg/s1200/Dunia%20Games%20Logo.png" group-title="Gaming",-1  , Dunia Game
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEJHOyvJJVZWdvdyTA_cxnGPREZSPbZ8TAiyMWBfa4IQ_atsAF9eaS3oVKWLz8nInAULM7Lhmn00OdQNYs5FICSBCECOdZnUV92NmB0cRZQPGgw06yzp76uM-eye9X3vTILBWv_H7U9uBa6_xeAbu3POwrVO0kqA-mXqKJW_7Pjz4KKsXH3RfS3FWVig/s225/e-sport-removebg-preview.png" group-title="Gaming",-1  , E-Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TAROPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtu6bJ_IaMbf64oCybIIGxr7nhowAGZ9JkGxITcvTRUIt8Dp5BOtknT05eiP9KuSmMAmLdvTAGt8RTwGz_tExpTqNlD6t04srqSstdwgyqh9Xigx0RBqh93AwODF5eX0KRKFLoEiAACubXqRwjeUnPzezwlJxrv8ZeWkmoDk3vbb-M4ZphNEoY_dIb9w/s1200/Logo_ESR.png" group-title="Gaming",-1  , ESR 24/7
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TAROPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85ouOENzoAsLFiD1jZf0q5tDcYH73XlQy12WK9PhNCUTi61HCvkdFz_dm6ENlOJjfSzJ-SGAxnI_1liIwnOhr5haH-Eva7gmkKLyhor3PGY7wO0FKKyE-1FA9O8OIjODgqoyLgwyaG-T1rfww9vxj40y7GqLOG4fyOtVjjY464USP_k-Q7WyIrOPMfg/s3840/IGN-Logo.png" group-title="Gaming",-1  , IGN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TAROPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #Sports
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Sports",TVRI Sports
