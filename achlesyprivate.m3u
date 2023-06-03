@@ -51,11 +51,14 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
 http://www.goldentv.tech:25461/Bonek8/1234/25719
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQdvgv00/TV9-NUSANTARA1.png" group-title="Lokal Indonesia",-1  , TV9 Nusantara
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQdvgv00/TV9-NUSANTARA1.png" group-title="Lokal Indonesia",TV9 Nusantara
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="Lokal Indonesia",IDX
 http://www.goldentv.tech:25461/Bonek8/1234/41099
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D1caPmP.png" group-title="Lokal Indonesia",JakTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",Elshinta TV
 http://210.210.155.35:80/session/9064e496-2ed8-11eb-9242-b82a72d63267/qwr9ew/s/s10/02.m3u8
@@ -216,8 +219,8 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
 
 #Kids
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhCg3sPv/logo-indikids-small.png" group-title="Kids",IndiKids
-#https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd4Tsg6y/607px-Boomerang-tv-logo.png" group-title="Kids",Boomerang
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rN8cTK/animax2.png" group-title="Kids",Animax
 http://www.goldentv.tech:25461/Bonek8/1234/26018
@@ -277,7 +280,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/25482
 #Music
 
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIR9vzfEq3yx7743hbwFdUGGpTTRgXCpO2vyV_3sw4RoOfQ4S80F9saZstNPSmyHEsJnYV5xssWjTV_kVlL__DqAKeEc7y1bt9sZZt82BrNK668gIueTuTnxkzgEteMstGKWGIL6a4DoMMArlqnfMUDqiE5XLAe-TJ52JO2JOklFBAooIikHI36rG8_g/s625/cdangdut-removebg-preview.png" group-title="Music",Citra Dangdut
-http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtu_aaAVo-LSsaf3ng1hYLZNVfDx-OD1Nqnw6OgPD6bVrI1NyHH42usgPy7NuxsQxB37phOdcuz-fAln5Bd3aS81ChB3Z30jscKyX-_RgD6DvVdPSt5bQk1VW4rH1hQ2WqkBoosGfUQ6LQ4jIQRuOOrs5uQ5kSxRW8uXr5fGwB6WRiKXcKbw1ndJCcA/s1200/1200px-MTV_HD_Logo_2015.svg.png" group-title="Music", MTV HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
