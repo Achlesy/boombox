@@ -2,7 +2,6 @@
 
 #Admin
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pdXSNV1w/info.png" group-title="Admin",Info Playlist
 https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230524_083422.mp4
 
 #Lokal Indonesia
@@ -128,6 +127,9 @@ https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p
 
 #EXTINF:0 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="News",DW English
 http://210.210.155.37/session/7a717784-ff83-11ed-9663-b82a72d63267/x6bnqe/s/s25/S4/mnf.m3u8
+
+#EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832" group-title="News",EuroNews
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch341)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="News",CNA
 http://210.210.155.35/session/7d946dce-ff9a-11ed-a64a-c81f66f89318/uq2663/h/h29/01.m3u8
