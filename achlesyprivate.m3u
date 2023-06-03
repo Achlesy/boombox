@@ -51,6 +51,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
 http://www.goldentv.tech:25461/Bonek8/1234/25719
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQdvgv00/TV9-NUSANTARA1.png" group-title="Lokal Indonesia",-1  , TV9 Nusantara
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="Lokal Indonesia",IDX
 http://www.goldentv.tech:25461/Bonek8/1234/41099
 
