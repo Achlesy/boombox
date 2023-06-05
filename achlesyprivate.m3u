@@ -291,6 +291,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp3PvWTt/1200px-MTV-Live-svg.png" group-title="Music",MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 
+#EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7XEfR5wABC6c-zU_cZUm1hM-Jpv4os5_UtJ8xCjv55z9nB2NP4kyF3yz8kKO19_Tk1mTwMLewPeWSIna1HEulMIWFDiOftn6pOeFaInNAoYsSc442-trMMJdTUz6l_C9VWoAYRgJy9sAjpGMRW1TdzBt3mvDq-ZEJ_9GxrVtM1Lw8wu-VhseEgHH8jQ/s2048/MTV_90s_2022.svg.png" group-title="Music",MTV 90s
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMyYEKdL85QD7SX3OWuBcNddYtW1319rNK8So8y36ocfquDqZmEdGnEpDz85vuhlb6jaxjVFv_Q47XjG8pYm48ecMZaE5qA34T47opa5BiH15PotdX4htQ1L2bXXFHHD1SNKicRDEJMgREQLO7f7mQHWi87Iex_tnIY1437TlWJnIYzZYqn1f0XqnM8A/s712/MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music", MTV U
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&extension=ts&play_token=5ENwuYDd5Z
 
