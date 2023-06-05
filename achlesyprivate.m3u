@@ -288,14 +288,17 @@ http://www.goldentv.tech:25461/Bonek8/1234/25482
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIR9vzfEq3yx7743hbwFdUGGpTTRgXCpO2vyV_3sw4RoOfQ4S80F9saZstNPSmyHEsJnYV5xssWjTV_kVlL__DqAKeEc7y1bt9sZZt82BrNK668gIueTuTnxkzgEteMstGKWGIL6a4DoMMArlqnfMUDqiE5XLAe-TJ52JO2JOklFBAooIikHI36rG8_g/s625/cdangdut-removebg-preview.png" group-title="Music",Citra Dangdut
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtu_aaAVo-LSsaf3ng1hYLZNVfDx-OD1Nqnw6OgPD6bVrI1NyHH42usgPy7NuxsQxB37phOdcuz-fAln5Bd3aS81ChB3Z30jscKyX-_RgD6DvVdPSt5bQk1VW4rH1hQ2WqkBoosGfUQ6LQ4jIQRuOOrs5uQ5kSxRW8uXr5fGwB6WRiKXcKbw1ndJCcA/s1200/1200px-MTV_HD_Logo_2015.svg.png" group-title="Music", MTV HD
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp3PvWTt/1200px-MTV-Live-svg.png" group-title="Music",MTV Live
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMyYEKdL85QD7SX3OWuBcNddYtW1319rNK8So8y36ocfquDqZmEdGnEpDz85vuhlb6jaxjVFv_Q47XjG8pYm48ecMZaE5qA34T47opa5BiH15PotdX4htQ1L2bXXFHHD1SNKicRDEJMgREQLO7f7mQHWi87Iex_tnIY1437TlWJnIYzZYqn1f0XqnM8A/s712/MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music", MTV U
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&extension=ts&play_token=5ENwuYDd5Z
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkcSTlU6V0P1IRL_ZzNgtxOYbZ1uZxTCFBe6Z_2rYaeyvXlVNc8hQImOyMTs1svpPQmSfBzeHUPvUEIP1ySQNEii3piVtNYe7LQNrsFv4tN71QE0uGNP6h00xyc-48XDH_poEukPohPSanCU7UzP1Rsz0-ixNKelpWQf6gKa8JZS2QRNphrZU87Zd4vQ/s1200/1200px-MTV_Classic_2013_logo.svg.png" group-title="Music", MTV Classic
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&extension=ts&play_token=xGAbSRTiiG
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFtu_aaAVo-LSsaf3ng1hYLZNVfDx-OD1Nqnw6OgPD6bVrI1NyHH42usgPy7NuxsQxB37phOdcuz-fAln5Bd3aS81ChB3Z30jscKyX-_RgD6DvVdPSt5bQk1VW4rH1hQ2WqkBoosGfUQ6LQ4jIQRuOOrs5uQ5kSxRW8uXr5fGwB6WRiKXcKbw1ndJCcA/s1200/1200px-MTV_HD_Logo_2015.svg.png" group-title="Music", MTV HD
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsX7bGYm/Retro-Music-TV-logo.png" group-title="Music",RetroTV
 http://www.goldentv.tech:25461/Bonek8/1234/32596
@@ -348,16 +351,19 @@ http://210.210.155.35:80/session/28e2724e-db19-11ed-adc1-86388d9454ae/uq2663/h/h
 
 #Gaming
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRmRZFVddmXgZ7Mp1RNuA9UElmRr4BGxfBr0QCBjYKXH9W8rhW9AWGVzcFUtGYoYEVWjw5EgCLDAEI9X5IvezqBdXkDbKC3YeITgI3uPTQYEPHF0jGUo5oPFEbhR1waeSkBdkHzT8Z4rGlEZxlaNc5xJ0gFMJAy3F443tEtrg8LqrDHK9vqxa5ISAeRg/s1200/Dunia%20Games%20Logo.png" group-title="Gaming",-1  , Dunia Game
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRmRZFVddmXgZ7Mp1RNuA9UElmRr4BGxfBr0QCBjYKXH9W8rhW9AWGVzcFUtGYoYEVWjw5EgCLDAEI9X5IvezqBdXkDbKC3YeITgI3uPTQYEPHF0jGUo5oPFEbhR1waeSkBdkHzT8Z4rGlEZxlaNc5xJ0gFMJAy3F443tEtrg8LqrDHK9vqxa5ISAeRg/s1200/Dunia%20Games%20Logo.png" group-title="Gaming",Dunia Game
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEJHOyvJJVZWdvdyTA_cxnGPREZSPbZ8TAiyMWBfa4IQ_atsAF9eaS3oVKWLz8nInAULM7Lhmn00OdQNYs5FICSBCECOdZnUV92NmB0cRZQPGgw06yzp76uM-eye9X3vTILBWv_H7U9uBa6_xeAbu3POwrVO0kqA-mXqKJW_7Pjz4KKsXH3RfS3FWVig/s225/e-sport-removebg-preview.png" group-title="Gaming",-1  , E-Sports
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0pZFmzKMXtGhbQO1IYnLgbpokLqgtbFyN-5ToX8bY2qCPZqrNnxFVwtzdcxEcShqlTlOTy8LsdWEHZ8dFpyPHKbmcHuv2Ge3b6Ms6pcWGMktB4200v9o8SNbBcbC_4qoMyA4T_c4mIn1GDuB-3sWWj0LtbNW5BchBJAxuVhzv-ot26oScIn15ruXSw/s436/First_Warriors.png" group-title="Gaming",FiRsT Warrior
+http://edge.linknetott.swiftserve.com/channelgroup4/cg431production/ch999/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEJHOyvJJVZWdvdyTA_cxnGPREZSPbZ8TAiyMWBfa4IQ_atsAF9eaS3oVKWLz8nInAULM7Lhmn00OdQNYs5FICSBCECOdZnUV92NmB0cRZQPGgw06yzp76uM-eye9X3vTILBWv_H7U9uBa6_xeAbu3POwrVO0kqA-mXqKJW_7Pjz4KKsXH3RfS3FWVig/s225/e-sport-removebg-preview.png" group-title="Gaming",E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TAROPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtu6bJ_IaMbf64oCybIIGxr7nhowAGZ9JkGxITcvTRUIt8Dp5BOtknT05eiP9KuSmMAmLdvTAGt8RTwGz_tExpTqNlD6t04srqSstdwgyqh9Xigx0RBqh93AwODF5eX0KRKFLoEiAACubXqRwjeUnPzezwlJxrv8ZeWkmoDk3vbb-M4ZphNEoY_dIb9w/s1200/Logo_ESR.png" group-title="Gaming",-1  , ESR 24/7
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtu6bJ_IaMbf64oCybIIGxr7nhowAGZ9JkGxITcvTRUIt8Dp5BOtknT05eiP9KuSmMAmLdvTAGt8RTwGz_tExpTqNlD6t04srqSstdwgyqh9Xigx0RBqh93AwODF5eX0KRKFLoEiAACubXqRwjeUnPzezwlJxrv8ZeWkmoDk3vbb-M4ZphNEoY_dIb9w/s1200/Logo_ESR.png" group-title="Gaming",ESR 24/7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TAROPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85ouOENzoAsLFiD1jZf0q5tDcYH73XlQy12WK9PhNCUTi61HCvkdFz_dm6ENlOJjfSzJ-SGAxnI_1liIwnOhr5haH-Eva7gmkKLyhor3PGY7wO0FKKyE-1FA9O8OIjODgqoyLgwyaG-T1rfww9vxj40y7GqLOG4fyOtVjjY464USP_k-Q7WyIrOPMfg/s3840/IGN-Logo.png" group-title="Gaming",-1  , IGN
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85ouOENzoAsLFiD1jZf0q5tDcYH73XlQy12WK9PhNCUTi61HCvkdFz_dm6ENlOJjfSzJ-SGAxnI_1liIwnOhr5haH-Eva7gmkKLyhor3PGY7wO0FKKyE-1FA9O8OIjODgqoyLgwyaG-T1rfww9vxj40y7GqLOG4fyOtVjjY464USP_k-Q7WyIrOPMfg/s3840/IGN-Logo.png" group-title="Gaming",IGN
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TAROPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #Sports
