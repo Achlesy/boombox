@@ -131,6 +131,9 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa86
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="News",CNBC International
 https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDkVxrSaUeXMp6vIBl_GFXn0-28pH-H-hxfmlFNsgQOwRVHcYwOFx7OebNsaG05rHVVddUPN7RhzYD9RtA6xOmGp318yLFbesIA_4mrU2ZASvA7zJrmttgZYEtYgoDoBuLHQvwkTTM_N806YNzCNA8tDpjocnhdssEJPAahIKOK6GGXVa39nVvn_xxgw/s1200/BBC_News_2022_%28Alt,_boxed%29.svg.png" group-title="News",BBC News
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch310)/index.m3u8
+
 #EXTINF:0 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="News",DW English
 http://210.210.155.37/session/7a717784-ff83-11ed-9663-b82a72d63267/x6bnqe/s/s25/S4/mnf.m3u8
 
