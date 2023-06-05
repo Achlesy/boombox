@@ -137,6 +137,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch310)/index.m3u
 #EXTINF:0 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="News",DW English
 http://210.210.155.37/session/7a717784-ff83-11ed-9663-b82a72d63267/x6bnqe/s/s25/S4/mnf.m3u8
 
+#EXTINF:0 tvg-logo="http://www.jwave.com.br/wp-content/uploads/2011/08/nhk_world.png" group-title="News",NHK World Japan
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
+
 #EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832" group-title="News",EuroNews
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch341)/index.m3u8
 
