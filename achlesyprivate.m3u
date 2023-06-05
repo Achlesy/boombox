@@ -233,6 +233,9 @@ http://www.goldentv.tech:25461/Bonek8/1234/26017
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNdsLd99gBYcT-ytDctC2hnt4jRjqdShqa3eHEsHVUch-NbLoUK8SLpjLYxAOrO4APW4ZnkUxhXdynuabsMlZ9yrY-D5zZM36s_2K7JaO6pGS6iseiwmRIFVo83lgfMq74DksiUNUM7kC0aTM7aP0K2ZnCY4bXOJL89X9TidPLx0c2CHyAxsFWGZTlQ/s500/HOREE_logo.png" group-title="Kids",Horee! Channel
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/1XGSgnVR/miaomitv-removebg-preview.png" group-title="Kids",Miao Mi
 http://www.goldentv.tech:25461/Bonek8/1234/26061
 
