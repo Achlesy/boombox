@@ -191,7 +191,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/25986
 http://www.goldentv.tech:25461/Bonek8/1234/26000
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="Movies",TvN Movies
-http://210.210.155.35/session/9b91bcc8-019d-11ee-80e5-c81f66f89318/dr9445/h/h21/01.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
 http://www.goldentv.tech:25461/Bonek8/1234/24990
@@ -314,7 +314,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #EXTINF:0 tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",tvN Asia
-http://210.210.155.35/session/ded282fc-0011-11ee-8f3f-c81f66f89318/dr9445/h/h20/01.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
 
 #EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",Sony GEM 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
@@ -323,13 +323,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 http://www.goldentv.tech:25461/Bonek8/1234/39920
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1vrIlMsth1Y/X6jBVoKArgI/AAAAAAAABvs/fkRLjRtjhRcCZcZGcE2DBwVwhjKOgfoXwCLcBGAsYHQ/w1200-h630-p-k-no-nu/1200px-KIX_logo.svg.png" group-title="Entertainment",KIX Asia
-http://210.210.155.35/session/26830928-0012-11ee-8f3f-c81f66f89318/dr9445/h/h07/01.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="MOVIES",Hits Asia
 http://www.goldentv.tech:25461/Bonek8/1234/39964
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
-http://www.goldentv.tech:25461/Bonek8/1234/23399
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",Sony One
 http://www.goldentv.tech:25461/Bonek8/1234/39805
@@ -370,6 +370,9 @@ http://www.goldentv.tech:25461/Bonek8/1234/41324
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO7aCEsokhZCw4eSbPRrQn4cnDxJXKUiF_jWJCXycbTkh1PUqv3-rjjcJCaCT0S_0L4EDeibHjKdq_PmX7mn9fBz7PNBABCTLXhglBAsJSgg5Qb4ysPrm3rNuph9CSEpYwRTlMhd6lWqDKV00-kg8U7ZUuJrhWai6fMGtMFwcob6t1hT1PQZ-CyxYzkw/s378/MNC_Sports_2_%282020%29.png" group-title="Sports",MNC Sports 2
 http://www.goldentv.tech:25461/Bonek8/1234/41325
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Xwe9ZK43p-j0FqtypMwqlOzITq6xKLW5vPMUy76hryQDbXxVbv0qpl1Rn8qN_WOixiV84e5oWTQ7rE7gejFZcPY0mOcxE-jYiSfvLtqsI0T7kcuxawX0OCfu1cXPvqkd9NnAj6NUjnxT1SQAYoDLtNN9Oc5FfQzfUBomb-8DpTzpBo5-qAdr1aeTgQ/s1280/1280px-Premier_sports_logo_2018.svg.png" group-title="Sports",Premier Sports
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMHxhX7cvSiGODFRUeTK2Z5a7PPjD9pOfxDZjpySgQUbln2oi0MUWXLwAJuosPyvixqpZJdrWBX0EEBn-mu-3Bbw4p9aasB6PIkoQ3ns8ukV9fSdL2ysM4GEwOdLi-5EPObzs7egYJSkShstjP_WSwauBxPlz_Jpv0-tni71FVnXmIz0mbT5BemhLdQ/s600/FIGHT_SPORTS_2018.png" group-title="Sports",Fight Sports
 http://210.210.155.35/session/dc43da1c-0012-11ee-8f3f-c81f66f89318/dr9445/h/h05/01.m3u8
