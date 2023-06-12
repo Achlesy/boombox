@@ -374,6 +374,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb26
 
 #Sports
 
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
+http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
+http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV ID
+http://beetv.my.id/x/usee-nba-gojokkk.m3u8
+
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Sports",TVRI Sports
 http://210.210.155.35/session/d4e22bd8-f578-11ed-9654-b82a72d63267/qwr9ew/s/s107/01.m3u8
 
@@ -406,12 +415,6 @@ http://www.goldentv.tech:25461/Bonek8/1234/39807
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN4fSX7s/Red-Bull-TV-logo.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
-http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
-http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 #Religi
 
