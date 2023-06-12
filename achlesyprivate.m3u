@@ -254,8 +254,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 #EXTINF:0 tvg-logo="https://i.postimg.cc/1XGSgnVR/miaomitv-removebg-preview.png" group-title="Kids",Miao Mi
 http://www.goldentv.tech:25461/Bonek8/1234/26061
 
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/fRc46BXV/car2.png" group-title="Kids",Cartoon Network
-http://beetv.my.id/x/cartoonnetwork-gojokkk.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="\twork" tvg-logo="https://i.postimg.cc/fRc46BXV/car2.png" group-title="Kids",Cartoon Network
+http://beetv.my.id/x/usee-cartoonnetwork-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYNvYR77/Babyfirst-logo.png" group-title="Kids",Baby First
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=442
