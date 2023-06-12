@@ -49,7 +49,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 http://beetv.my.id/x/usee-jtv-gojokkk.m3u8
 
 #EXTINF:-1  tvg-id="BALITV.id" group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",Bali TV
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+http://beetv.my.id/x/usee-balitv-gojokkk.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
 http://www.goldentv.tech:25461/Bonek8/1234/25719
