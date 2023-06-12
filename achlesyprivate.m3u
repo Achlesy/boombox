@@ -341,7 +341,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3
 http://www.goldentv.tech:25461/Bonek8/1234/39920
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1vrIlMsth1Y/X6jBVoKArgI/AAAAAAAABvs/fkRLjRtjhRcCZcZGcE2DBwVwhjKOgfoXwCLcBGAsYHQ/w1200-h630-p-k-no-nu/1200px-KIX_logo.svg.png" group-title="Entertainment",KIX Asia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
+http://beetv.my.id/x/usee-kix-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="MOVIES",Hits Asia
 http://www.goldentv.tech:25461/Bonek8/1234/39964
