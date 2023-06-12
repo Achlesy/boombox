@@ -178,6 +178,9 @@ http://beetv.my.id/x/usee-galaxy-gojokkk.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium Channel
 http://beetv.my.id/x/usee-galaxypremium-gojokkk.m3u8
 
+#EXTINF:-1 tvg-id="flik.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTh2SUHQrg1I_lWK1Vnbk1iqsPhTRiVMcQz_d_0VfN-hmpYqbtQOS9-E2fFtuq3dAMM3r3gY0AN_Zm_nATqwP_vI7yYLCbUhhSmtqQKze8rmBEn5Lmn8frjKbmkf94oD3oUv7uPHKc66Y49oZo0XNwIV1xxvCBr09oAwDguo2sh9ufZkabyAvkflOSGw/s200/flik-removebg-preview.png" group-title="Movies",FLiK
+http://beetv.my.id/x/usee-flik-gojokkk.m3u8
+
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.postimg.cc/SRYwDD5R/citra-bioskop-channel-tv-logo.png" group-title="Movies",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
