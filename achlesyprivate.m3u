@@ -100,7 +100,7 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+http://beetv.my.id/x/usee-useeprime-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime Backup
 https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/playlist.m3u8
