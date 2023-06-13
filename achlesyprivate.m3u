@@ -300,9 +300,6 @@ http://www.goldentv.tech:25461/Bonek8/1234/25482
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIR9vzfEq3yx7743hbwFdUGGpTTRgXCpO2vyV_3sw4RoOfQ4S80F9saZstNPSmyHEsJnYV5xssWjTV_kVlL__DqAKeEc7y1bt9sZZt82BrNK668gIueTuTnxkzgEteMstGKWGIL6a4DoMMArlqnfMUDqiE5XLAe-TJ52JO2JOklFBAooIikHI36rG8_g/s625/cdangdut-removebg-preview.png" group-title="Music",Citra Dangdut
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgXbSK8L/dens-showbiz-removebg-preview.png" group-title="Lokal Indonesia",Dens ShowBiz
-http://op-group1-swiftservesd-1.dens.tv/s/s35/S4/mnf.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp3PvWTt/1200px-MTV-Live-svg.png" group-title="Music",MTV Live
 http://beetv.my.id/x/usee-mtvlive-gojokkk.m3u8
 
@@ -331,9 +328,6 @@ http://www.goldentv.tech:25461/Bonek8/1234/32607
 
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://i.postimg.cc/MZMDgnL4/1280px-TLC-Logo-svg.png" group-title="Lifestyle",TLC
 http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2sVZz2z/dlifestyle-removebg-preview.png" group-title="Lifestyle",Dens LifeStyle
-http://op-group1-swiftservesd-1.dens.tv/s/s65/S4/mnf.m3u8
 
 #Entertainment
 
@@ -375,9 +369,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRmRZFVddmXgZ7Mp1RNuA9UElmRr4BGxfBr0QCBjYKXH9W8rhW9AWGVzcFUtGYoYEVWjw5EgCLDAEI9X5IvezqBdXkDbKC3YeITgI3uPTQYEPHF0jGUo5oPFEbhR1waeSkBdkHzT8Z4rGlEZxlaNc5xJ0gFMJAy3F443tEtrg8LqrDHK9vqxa5ISAeRg/s1200/Dunia%20Games%20Logo.png" group-title="Gaming",Dunia Game
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJVrpFS1/837914646-removebg-preview.png" group-title="Gaming",Dens Play
-http://op-group1-swiftservesd-1.dens.tv/s/s37/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0pZFmzKMXtGhbQO1IYnLgbpokLqgtbFyN-5ToX8bY2qCPZqrNnxFVwtzdcxEcShqlTlOTy8LsdWEHZ8dFpyPHKbmcHuv2Ge3b6Ms6pcWGMktB4200v9o8SNbBcbC_4qoMyA4T_c4mIn1GDuB-3sWWj0LtbNW5BchBJAxuVhzv-ot26oScIn15ruXSw/s436/First_Warriors.png" group-title="Gaming",FiRsT Warrior
 http://edge.linknetott.swiftserve.com/channelgroup4/cg431production/ch999/03.m3u8
