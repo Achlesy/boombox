@@ -55,13 +55,13 @@ http://beetv.my.id/x/usee-balitv-gojokkk.m3u8
 http://www.goldentv.tech:25461/Bonek8/1234/25719
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dQdvgv00/TV9-NUSANTARA1.png" group-title="Lokal Indonesia",TV9 Nusantara
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg503production/ch352/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="Lokal Indonesia",IDX
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://d1io3yog0oux5.cloudfront.net/_cdd5ea87a1d8b97db98a193ff659cb9e/mainstcapital/db/Companies/5884/logo_resized.png" group-title="Lokal Indonesia",IDX Channel
 http://www.goldentv.tech:25461/Bonek8/1234/41099
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1caPmP.png" group-title="Lokal Indonesia",JakTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
@@ -129,7 +129,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/25681
 #News
 
 #EXTINF:0 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="News",CNN International
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch236)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg328production/ch236/03.m3u8
  
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="News",CNBC International
 https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
@@ -138,16 +138,16 @@ https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p
 http://beetv.my.id/x/usee-seatoday-gojokkk.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDkVxrSaUeXMp6vIBl_GFXn0-28pH-H-hxfmlFNsgQOwRVHcYwOFx7OebNsaG05rHVVddUPN7RhzYD9RtA6xOmGp318yLFbesIA_4mrU2ZASvA7zJrmttgZYEtYgoDoBuLHQvwkTTM_N806YNzCNA8tDpjocnhdssEJPAahIKOK6GGXVa39nVvn_xxgw/s1200/BBC_News_2022_%28Alt,_boxed%29.svg.png" group-title="News",BBC News
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch310)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg215production/ch310/03.m3u8
 
 #EXTINF:0 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="News",DW English
 http://210.210.155.37/x6bnqe/s/s25/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.jwave.com.br/wp-content/uploads/2011/08/nhk_world.png" group-title="News",NHK World Japan
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch223)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/03.m3u8
 
 #EXTINF:0 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/6a/Euronews_old.png/revision/latest?cb=20091209212832" group-title="News",EuroNews
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch341)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg325production/ch341/03.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="News",CNA
 http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
@@ -194,7 +194,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/25977
 http://www.goldentv.tech:25461/Bonek8/1234/39815
 
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBO15OVRrSWdJfl1r5iHVJSRc47zgwFvav_XS87BKl24LKUYZ9BAej9npwFEeI7aQUd9pe14nTcBji6F1vtSvcLn2W7xAJIc7yY2U-IxRYPadJzeoPgWqQ_zagQY9Q-aSF8dl6MkDKXSXFgbAd-E_tMcDBIgpE5wPpeZzxVuoNR30Y7WnJJuw_sWn-A/s1111/Rock_Action.png" group-title="Movies",Rock Action
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/03.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/BZ1gRWKC/cinema-world-black.png" group-title="Movies",Cinema World
 http://op-group1-swiftservehd-1.dens.tv/h/h04/01.m3u8
@@ -209,7 +209,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/25986
 http://www.goldentv.tech:25461/Bonek8/1234/26000
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="Movies",TvN Movies
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
 http://www.goldentv.tech:25461/Bonek8/1234/24990
@@ -238,10 +238,10 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
 #Kids
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pd4Tsg6y/607px-Boomerang-tv-logo.png" group-title="Kids",Boomerang
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rN8cTK/animax2.png" group-title="Kids",Animax
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg201production/ch52/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT9FXnb1/aniplus2.png" group-title="Kids",AniPlus
 http://www.goldentv.tech:25461/Bonek8/1234/26017
@@ -252,7 +252,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/26017
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNdsLd99gBYcT-ytDctC2hnt4jRjqdShqa3eHEsHVUch-NbLoUK8SLpjLYxAOrO4APW4ZnkUxhXdynuabsMlZ9yrY-D5zZM36s_2K7JaO6pGS6iseiwmRIFVo83lgfMq74DksiUNUM7kC0aTM7aP0K2ZnCY4bXOJL89X9TidPLx0c2CHyAxsFWGZTlQ/s500/HOREE_logo.png" group-title="Kids",Horee! Channel
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/1XGSgnVR/miaomitv-removebg-preview.png" group-title="Kids",Miao Mi
 http://www.goldentv.tech:25461/Bonek8/1234/26061
@@ -293,7 +293,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/03.m3u8
 http://www.goldentv.tech:25461/Bonek8/1234/25484
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV" tvg-logo="https://i.postimg.cc/NjrSRbbN/hgtv2.png" group-title="Knowledge",HGTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/03.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZlE_5p1lUKzoQDKycyCaY89ppz9XmVZpQysYGgeqdofZXJSTfzTS6RxYWAj6xl_TlQfXKMTiwCuRsrEtaHobe9yh83Ajb0q4sBCtiF-1gL-AhUhpxaJ_7S6rmigcAA0Qwlo3wKubdlo_Lzt_5EEQnOI86qMUe4vEIYMiqPv3Z2Kkxc1K6aiVotZQYcQ/s240/Crime+Investigation_logo_2013.png" group-title="Knowledge",Crime + Investigation
 http://www.goldentv.tech:25461/Bonek8/1234/25482
@@ -301,13 +301,13 @@ http://www.goldentv.tech:25461/Bonek8/1234/25482
 #Music
 
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIR9vzfEq3yx7743hbwFdUGGpTTRgXCpO2vyV_3sw4RoOfQ4S80F9saZstNPSmyHEsJnYV5xssWjTV_kVlL__DqAKeEc7y1bt9sZZt82BrNK668gIueTuTnxkzgEteMstGKWGIL6a4DoMMArlqnfMUDqiE5XLAe-TJ52JO2JOklFBAooIikHI36rG8_g/s625/cdangdut-removebg-preview.png" group-title="Music",Citra Dangdut
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch377)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mp3PvWTt/1200px-MTV-Live-svg.png" group-title="Music",MTV Live
 http://beetv.my.id/x/usee-mtvlive-gojokkk.m3u8
 
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7XEfR5wABC6c-zU_cZUm1hM-Jpv4os5_UtJ8xCjv55z9nB2NP4kyF3yz8kKO19_Tk1mTwMLewPeWSIna1HEulMIWFDiOftn6pOeFaInNAoYsSc442-trMMJdTUz6l_C9VWoAYRgJy9sAjpGMRW1TdzBt3mvDq-ZEJ_9GxrVtM1Lw8wu-VhseEgHH8jQ/s2048/MTV_90s_2022.svg.png" group-title="Music",MTV 90s
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg355production/ch241/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMyYEKdL85QD7SX3OWuBcNddYtW1319rNK8So8y36ocfquDqZmEdGnEpDz85vuhlb6jaxjVFv_Q47XjG8pYm48ecMZaE5qA34T47opa5BiH15PotdX4htQ1L2bXXFHHD1SNKicRDEJMgREQLO7f7mQHWi87Iex_tnIY1437TlWJnIYzZYqn1f0XqnM8A/s712/MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music", MTV U
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887379&extension=ts&play_token=5ENwuYDd5Z
@@ -335,13 +335,13 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/03.m3u8
 #Entertainment
 
 #EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="Entertainment",Arirang World
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch253)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/03.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="Entertainment",Citra Entertainment
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/03.m3u8
 
 #EXTINF:0 tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",tvN Asia
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch339)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/03.m3u8
 
 #EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",Sony GEM 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/03.m3u8
@@ -357,7 +357,7 @@ http://beetv.my.id/x/usee-kix-gojokkk.m3u8
 http://www.goldentv.tech:25461/Bonek8/1234/39964
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/03.m3u8
 
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",Sony One
 http://www.goldentv.tech:25461/Bonek8/1234/39805
@@ -412,7 +412,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/41324
 http://www.goldentv.tech:25461/Bonek8/1234/41325
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Xwe9ZK43p-j0FqtypMwqlOzITq6xKLW5vPMUy76hryQDbXxVbv0qpl1Rn8qN_WOixiV84e5oWTQ7rE7gejFZcPY0mOcxE-jYiSfvLtqsI0T7kcuxawX0OCfu1cXPvqkd9NnAj6NUjnxT1SQAYoDLtNN9Oc5FfQzfUBomb-8DpTzpBo5-qAdr1aeTgQ/s1280/1280px-Premier_sports_logo_2018.svg.png" group-title="Sports",Premier Sports
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch320)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMHxhX7cvSiGODFRUeTK2Z5a7PPjD9pOfxDZjpySgQUbln2oi0MUWXLwAJuosPyvixqpZJdrWBX0EEBn-mu-3Bbw4p9aasB6PIkoQ3ns8ukV9fSdL2ysM4GEwOdLi-5EPObzs7egYJSkShstjP_WSwauBxPlz_Jpv0-tni71FVnXmIz0mbT5BemhLdQ/s600/FIGHT_SPORTS_2018.png" group-title="Sports",Fight Sports
 http://beetv.my.id/x/usee-fightsport-gojokkk.m3u8
@@ -446,16 +446,16 @@ http://www.goldentv.tech:25461/Bonek8/1234/22727
 #China
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vu-IwbuokPneEvkCJnyQHMl0EpsBb_rs3jbGhxGiOxIrI31szk12jRdL0_xz00o-oopObO5iPwE2ELFe8zi3K3QsJA0ZUW_j0I2IQE-H4eJBeD2HJEBaqufbycX1gbh6eFLKGFItfJEmdKT02d1rHFil4bSPi6EoONjggnKi43QBblZ5yD1-3OeM4Q/s335/JiangsuTV_logo-removebg-preview.png" group-title="China",Jiang Su TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch221)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg345production/ch221/03.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijfOQ1rBpvzZtEXLs7DeUv-qlxiV4mxDoz1-dEytMTcB0CXxSzmOK05_bI7_lPRYxWj65LqNjtCvx-C4-xQXBtdeDXYk4BeD4qHPT96vXy_qXbdn-RDO6ppMnvMF2XzjV0OMSUIJkdOnuvAfmATJDqDhZdBpOcinhCYvMIj0uoboYMS9c_QcUuQkx2Mw/s1024/de44vyj-5a2791c3-1c0d-4164-87da-3f6f02b37ed9.png" group-title="China",Dragon Shanghai TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch220)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg344production/ch220/03.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVW_7fY0ENlIL-arxra1bYClQh8x3PDPZAL7HCr--kMKxUcUOfjyzAXAk0aI5auQcb_-XU_KOyXABnZKQH-8ELHJsm91srD9wn77bQ80iKTXhEvA_CAnxj_TwhnpHFVDKB-J_ZY1NNtLfCHZbo9UoGbqe-Ceq23HZyO1XEV9zNwWABI8RefwULEQC6Ng/s616/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-removebg-preview.png" group-title="China",Hu Nan TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch219)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg343production/ch219/03.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinTyCDIHT8itZPfuxlkLOf9ZMTDCP2-A-GGKe-m-aGUuKWE3q9bM2DkHJvXuZ1WiCJC441E2o272nFZH_lr2yR7Mk7Eq6w74d1OXYTmDErA3ZcB9gQNVYixvhFkZtlciDgMepYWHcbUEgbJVVxeUMuxsIaVVX0SnSUxjpv-mRMAGXX5BexPJtw_WLJcQ/s808/Xing_Kong_China-removebg-preview.png" group-title="China",Star Xing Kong
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch206)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg533production/ch206/03.m3u8
 
 #Radio
 
