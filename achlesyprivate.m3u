@@ -6,14 +6,17 @@ https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230524_083
 
 #Lokal Indonesia
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime
+http://beetv.my.id/x/usee-useeprime-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772695.png" group-title="Lokal Indonesia",TVRI Nasional
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j7V0epU.png" group-title="Lokal Indonesia",TVRI WORLD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Lokal Indonesia",TVRI Sports
 http://www.goldentv.tech:25461/Bonek8/1234/25223
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772695.png" group-title="Lokal Indonesia",TVRI Nasional
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772699.png" group-title="Lokal Indonesia",TransTV
 http://www.goldentv.tech:25461/Bonek8/1234/25684
@@ -34,7 +37,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/25666
 http://www.goldentv.tech:25461/Bonek8/1234/25668
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772701.png" group-title="Lokal Indonesia",SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+http://www.goldentv.tech:25461/Bonek8/1234/25688
 
 #EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="Lokal Indonesia",GTV
 http://www.goldentv.tech:25461/Bonek8/1234/25667
@@ -61,7 +64,7 @@ http://www.goldentv.tech:25461/Bonek8/1234/41099
 http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",Elshinta TV
-http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+http://210.210.155.37/x6bnqe/s/s12/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Lokal Indonesia",RodjaTV
 http://beetv.my.id/x/usee-rodjatv-gojokkk.m3u8
@@ -69,11 +72,8 @@ http://beetv.my.id/x/usee-rodjatv-gojokkk.m3u8
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772705.png" group-title="Lokal Indonesia",NET TV HD
 http://www.goldentv.tech:25461/Bonek8/1234/25693
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZFJCzqX/Moji-blue-svg.webp" group-title="Lokal Indonesia",Moji TV
-http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZFJCzqX/Moji-blue-svg.webp" group-title="Lokal Indonesia",MojiTV Backup
-http://www.goldentv.tech:25461/Bonek8/1234/25764
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZFJCzqX/Moji-blue-svg.webp" group-title="Lokal Indonesia",MojiTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Lokal Indonesia",Metro TV
 http://www.goldentv.tech:25461/Bonek8/1234/25722
@@ -99,14 +99,11 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKR9dNfw/GarudaTv.png" group-title="Lokal Indonesia",GarudaTV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime
-http://beetv.my.id/x/usee-useeprime-gojokkk.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHi2vy6lFnwPhwaR00lR8ZrPdPoYcMJFGEgttJLzBQ706-5afHXyRiWh1ZeGAvH34WaZ2cggFH6TQLck8KBh1tCXKBxdxdjisMA9dtIb6L05MW3B-oBGp1nDV1IV7GwuXbwJNGA9NKxYfTWglFSCw-notTIkmVA9zhZKSAGifN66lCxN-TSbxtu-W_g/s2750/Logo_IndiHome_TV.png" group-title="Lokal Indonesia",IndiHome TV
 https://cdn09jtedge.indihometv.com/bumper/bumperpengganti/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-TZHHyORLaDk/VNJ9jaX15DI/AAAAAAAAAYk/_ZwdzzPtaMs/s1600/Logo%2BDAAI%2BTV%2BJakarta%2B-%2Banakcemerlang.png" group-title="Lokal Indonesia",DAAI TV
-http://210.210.155.37/qwr9ew/s/s13/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772713.png" group-title="Lokal Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
@@ -114,7 +111,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02Fw7pHX/logo-hitam-removebg-preview.png" group-title="Lokal Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
-#EXTINF:0 #EXTINF:0 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="Lokal Indonesia",BeritaSatu TV
+#EXTINF:0 #EXTINF:0 tvg-logo="http://materiales.coam.org/media/Default%20Files/microsites/materiales/imgs/2020/RECOMIENDA/LOGOS/BTV%20LOGO.png" group-title="Lokal Indonesia",BTV
 http://www.goldentv.tech:25461/Bonek8/1234/25691
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772719.png" group-title="Lokal Indonesia",ArekTV
@@ -138,7 +135,7 @@ http://beetv.my.id/x/usee-seatoday-gojokkk.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup2/cg215production/ch310/03.m3u8
 
 #EXTINF:0 tvg-logo="https://arij.net/investigations/landPage/graphics/DW.png" group-title="News",DW English
-http://210.210.155.37/x6bnqe/s/s25/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg414production/ch255/03.m3u8
 
 #EXTINF:0 tvg-logo="http://www.jwave.com.br/wp-content/uploads/2011/08/nhk_world.png" group-title="News",NHK World Japan
 http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/03.m3u8
@@ -153,13 +150,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
 http://www.goldentv.tech:25461/Bonek8/1234/41098
 
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/id/58694/png/france-24-logo.png" group-title="News",France 24 English
-http://210.210.155.37/qwr9ew/s/s22/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg507production/ch261/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPNSVJO.png" group-title="News",Wion TV
 http://op-group1-swiftservehd-1.dens.tv/h/h91/S4/mnf.m3u8
 
 #EXTINF:0 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",Al Jazeera English
-http://210.210.155.37/qwr9ew/s/s17/01.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg403production/ch252/03.m3u8
 
 #Movies
 
@@ -267,10 +264,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 http://www.goldentv.tech:25461/Bonek8/1234/26021
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/d3t6CgL7/Nick-Jr-logo-2009.png" group-title="Kids",Nick Jr
-http://www.goldentv.tech:25461/Bonek8/1234/26025
+http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/03.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
-http://www.goldentv.tech:25461/Bonek8/1234/26026
+http://edge.linknetott.swiftserve.com/channelgroup2/cg225production/ch105/03.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg58ShC_Yr48ix3zDVmYhzNXVvk1eTYDEgPa65ezdKJiIszCspVmaa4DQ_rRwjoAWoAZvadmIXvhFAposE9W2BrgUfw5UKyGlAVo8ArBfKhEO8Rvpx4Fc93zXqmVViELad6NY66d0gLRI2UGQ1ZNp7aIE4Azg-pZfiB4T5XK4_yvw-lS4SXF86obmfH5w/s2566/UPLOAD-1655920070-.png" group-title="Kids",My Kidz
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
@@ -356,11 +353,14 @@ http://www.goldentv.tech:25461/Bonek8/1234/39964
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
 http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/03.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",Sony One
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png?20220310233458" group-title="Entertainment",TV 5 Monde
+http://edge.linknetott.swiftserve.com/channelgroup4/cg420production/ch260/03.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",ONE Channel
 http://www.goldentv.tech:25461/Bonek8/1234/39805
 
 #EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Rock entertainmet" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JI8gxOkrZexQpPtSU4xnqi73-4s8J1ggMevPqz-nn6X_.png" group-title="Entertainment",Rock Entertainment
-http://210.210.155.37/dr9445/h/h16/01.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
@@ -392,9 +392,6 @@ http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV ID
 http://beetv.my.id/x/usee-nba-gojokkk.m3u8
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772698.png" group-title="Sports",TVRI Sports
-http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",Usee Sport 1
 http://www.goldentv.tech:25461/Bonek8/1234/40232
