@@ -2,6 +2,7 @@
 ########################### PLAYLIST FULL HLS FORMAT ##############################
 
 #EXTM3U url-tvg="https://rebrand.ly/epgrepublictv1 , https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 
 #Admin
 
