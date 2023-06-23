@@ -11,7 +11,7 @@ https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230524_083
 #Lokal Indonesia
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime
-http://beetv.my.id/x/usee-useeprime-gojokkk.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772695.png" group-title="Lokal Indonesia",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
