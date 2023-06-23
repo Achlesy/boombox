@@ -146,9 +146,6 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg325production/ch341/03.m3u
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_330.png" group-title="News",CNA
 http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_350.png" group-title="News",ABC Australia Asia
-http://www.goldentv.tech:25461/Bonek8/1234/41098
-
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/files/id/58694/png/france-24-logo.png" group-title="News",France 24 English
 http://edge.linknetott.swiftserve.com/channelgroup5/cg507production/ch261/03.m3u8
 
@@ -161,16 +158,16 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg403production/ch252/03.m3u
 #Movies
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
-http://www.goldentv.tech:25461/Bonek8/1234/25976
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157580
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Movies",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfCPfTXB/galaxy-removebg-preview.png" group-title="Movies",Galaxy Channel
-http://beetv.my.id/x/usee-galaxy-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264773
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium Channel
-http://beetv.my.id/x/usee-galaxypremium-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264774
 
 #EXTINF:-1 tvg-id="flik.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTh2SUHQrg1I_lWK1Vnbk1iqsPhTRiVMcQz_d_0VfN-hmpYqbtQOS9-E2fFtuq3dAMM3r3gY0AN_Zm_nATqwP_vI7yYLCbUhhSmtqQKze8rmBEn5Lmn8frjKbmkf94oD3oUv7uPHKc66Y49oZo0XNwIV1xxvCBr09oAwDguo2sh9ufZkabyAvkflOSGw/s200/flik-removebg-preview.png" group-title="Movies",FLiK
 http://beetv.my.id/x/usee-flik-gojokkk.m3u8
@@ -179,13 +176,13 @@ http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/xdJYLTXm/CCM-new-Logo.webp" group-title="Movies",Celestial Classic Movies
-http://www.goldentv.tech:25461/Bonek8/1234/25987
+http://210.210.155.35/qwr9ew/s/s31/01.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/qqB5Xj1F/celestialmovies-removebg-preview.png" group-title="Movies",Celestial Movies
-http://www.goldentv.tech:25461/Bonek8/1234/25977
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165065
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/yNVY9zFX/HITS-MOVIES-ASIA.webp" group-title="Movies",Hits Movies
-http://www.goldentv.tech:25461/Bonek8/1234/39815
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
 
 #EXTINF:0 tvg-id="TLC.Id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieBO15OVRrSWdJfl1r5iHVJSRc47zgwFvav_XS87BKl24LKUYZ9BAej9npwFEeI7aQUd9pe14nTcBji6F1vtSvcLn2W7xAJIc7yY2U-IxRYPadJzeoPgWqQ_zagQY9Q-aSF8dl6MkDKXSXFgbAd-E_tMcDBIgpE5wPpeZzxVuoNR30Y7WnJJuw_sWn-A/s1111/Rock_Action.png" group-title="Movies",Rock Action
 http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/03.m3u8
@@ -194,40 +191,28 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/03.m3u
 http://op-group1-swiftservehd-1.dens.tv/h/h04/01.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/v8zBYTf8/imc.png" group-title="Movies",IMC
-http://www.goldentv.tech:25461/Bonek8/1234/25994
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264769
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FRydvxgD/Zee-bioskop.png" group-title="Movies",Zee Bioskop
-http://www.goldentv.tech:25461/Bonek8/1234/25986
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43HYGTrx/287-2873744-cinemax-logo-png-transparent-png-removebg-preview.png" group-title="Movies",Cinemax 
-http://www.goldentv.tech:25461/Bonek8/1234/26000
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197964
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="Movies",TvN Movies
 http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
-http://www.goldentv.tech:25461/Bonek8/1234/24990
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO Backup
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
-http://www.goldentv.tech:25461/Bonek8/1234/24993
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits Backup
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
-http://www.goldentv.tech:25461/Bonek8/1234/24992
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family Backup
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197055
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
-http://www.goldentv.tech:25461/Bonek8/1234/24991
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature Backup
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221948
 
 #Kids
 
@@ -347,8 +332,8 @@ http://www.goldentv.tech:25461/Bonek8/1234/39920
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 http://beetv.my.id/x/usee-kix-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="MOVIES",Hits Asia
-http://www.goldentv.tech:25461/Bonek8/1234/39964
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="Entertainment",Hits Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch326)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
 http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/03.m3u8
