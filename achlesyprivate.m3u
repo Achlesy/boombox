@@ -1,4 +1,5 @@
-###########INI PRIVATE YAA BG, JGN NYOLONG!  -  PUNYA ACHLESY!!!#################
+########### INI PRIVATE YAA BG, JGN NYOLONG!  -  PUNYA ACHLESY!!! #################
+########################### PLAYLIST FULL HLS FORMAT ##############################
 
 #Admin
 
@@ -157,8 +158,26 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg403production/ch252/03.m3u
 
 #Movies
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43HYGTrx/287-2873744-cinemax-logo-png-transparent-png-removebg-preview.png" group-title="Movies",Cinemax 
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197964
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197055
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221948
+
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157580
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="Movies",TvN Movies
+http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/03.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Movies",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
@@ -168,6 +187,9 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264773
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium Channel
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264774
+
+#EXTINF:0 tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="Movies",Paramount HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
 
 #EXTINF:-1 tvg-id="flik.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTh2SUHQrg1I_lWK1Vnbk1iqsPhTRiVMcQz_d_0VfN-hmpYqbtQOS9-E2fFtuq3dAMM3r3gY0AN_Zm_nATqwP_vI7yYLCbUhhSmtqQKze8rmBEn5Lmn8frjKbmkf94oD3oUv7uPHKc66Y49oZo0XNwIV1xxvCBr09oAwDguo2sh9ufZkabyAvkflOSGw/s200/flik-removebg-preview.png" group-title="Movies",FLiK
 http://beetv.my.id/x/usee-flik-gojokkk.m3u8
@@ -193,26 +215,20 @@ http://op-group1-swiftservehd-1.dens.tv/h/h04/01.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/v8zBYTf8/imc.png" group-title="Movies",IMC
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264769
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMQ9BTtg/Bioskop-Indonesia-TV.png" group-title="Movies",Bioskop Indonesia
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264801
+
 #EXTINF:0 tvg-logo="https://i.postimg.cc/FRydvxgD/Zee-bioskop.png" group-title="Movies",Zee Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43HYGTrx/287-2873744-cinemax-logo-png-transparent-png-removebg-preview.png" group-title="Movies",Cinemax 
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197964
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA2-bFxzfhe9u2fVn8Bg6ooY3PnGIC8vNSE6cIpTpXLsnD4hNUTb9b3CN4w6w-hf99haDl1WCg1tT-QThP5sUwW0UDMg8qzMtljwJZ8z-PIyfi_S6Oedj_bg61RnC0pgWdGA8ojPFw06R94WTify5fTy34qzi1sYMQIEQbypRguugndkt75QJozRUg0A/s800/My_Cinema_Logo_kedua.png" group-title="Movies",My Cinema
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298553
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="Movies",TvN Movies
-http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/03.m3u8
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYnv46oHVU5G68XAeaBaITY9L731fHdx8kvcl46CxtpQpKOikqUx3IywGx-Yh33cq1RJrl97-r9ChmK_nMgw6P4dqg5MvYTSaAwbMCLEkIzf-vn3AFujghJgWyLhabLPM77lqxMoY9gEqkzu3lOMg-Q5GMiS_kQUUlGJ5BHF7e08kNYqrt5cQ42MgEhA/s132/MCA_29-removebg-preview.png" group-title="Movies",My Cinema Asia
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298554
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197055
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221948
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Q7gkteuUgwFRGXe_vXQf0AocKAYV1jmAMf6oJllwzd43Hs4ULvXvv1LSerIeo66fWUbIBUHCZO-dsufgeQNbwqFJ-cPNUhvpu0OVxyyfON5zjqhXBkFE42VN4XSCugq00QlgJw3YHpYaZx35vWTEMPbiWXcVl04_NqTXsKLCd38xD2aaEx5wRMqe8g/s132/MFC-removebg-preview.png" group-title="Movies",My Family Channel
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298555
 
 #Kids
 
@@ -349,7 +365,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157592
 #EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="Entertainment",Arirang World
 http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/03.m3u8
 
-#EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",Sony GEM 
+#EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",GEM 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/03.m3u8
 
 #EXTINF:0 tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",tvN Asia
@@ -357,6 +373,9 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/03.m3u
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",ONE Channel
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165077
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
 http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/03.m3u8
@@ -376,9 +395,6 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298524
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png?20220310233458" group-title="Entertainment",TV 5 Monde
 http://edge.linknetott.swiftserve.com/channelgroup4/cg420production/ch260/03.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",ONE Channel
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298563
-
 #EXTINF:-1 tvg-id="Blue Ant Extreme" tvg-name="Rock entertainmet" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JI8gxOkrZexQpPtSU4xnqi73-4s8J1ggMevPqz-nn6X_.png" group-title="Entertainment",Rock Entertainment
 http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/03.m3u8
 
@@ -397,7 +413,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197958
 #Gaming
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRmRZFVddmXgZ7Mp1RNuA9UElmRr4BGxfBr0QCBjYKXH9W8rhW9AWGVzcFUtGYoYEVWjw5EgCLDAEI9X5IvezqBdXkDbKC3YeITgI3uPTQYEPHF0jGUo5oPFEbhR1waeSkBdkHzT8Z4rGlEZxlaNc5xJ0gFMJAy3F443tEtrg8LqrDHK9vqxa5ISAeRg/s1200/Dunia%20Games%20Logo.png" group-title="Gaming",Dunia Game
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0pZFmzKMXtGhbQO1IYnLgbpokLqgtbFyN-5ToX8bY2qCPZqrNnxFVwtzdcxEcShqlTlOTy8LsdWEHZ8dFpyPHKbmcHuv2Ge3b6Ms6pcWGMktB4200v9o8SNbBcbC_4qoMyA4T_c4mIn1GDuB-3sWWj0LtbNW5BchBJAxuVhzv-ot26oScIn15ruXSw/s436/First_Warriors.png" group-title="Gaming",FiRsT Warrior
 http://edge.linknetott.swiftserve.com/channelgroup4/cg431production/ch999/03.m3u8
@@ -422,17 +438,20 @@ http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV ID
 http://beetv.my.id/x/usee-nba-gojokkk.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",Usee Sport 1
-http://www.goldentv.tech:25461/Bonek8/1234/40232
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",Usee Sports 1
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy6fyMSj/logo-useesports2-ver1.png" group-title="Sports",Usee Sport 2
-http://www.goldentv.tech:25461/Bonek8/1234/40233
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dy6fyMSj/logo-useesports2-ver1.png" group-title="Sports",Usee Sports 2
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298578
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbzBWly78DU6VRi8EXBiMadcXXFfO2zr53YJPCawJa4uVL4kvzuWb8U4EwPyUFKHw8kiB2nPdM7UWBFaWT7PgyBtKK0OsjorMAAl9UvbpAUNtzsZOV8JJ-RAT7UA7mfYZeSO-zZ7BBc9n8OR7n-T6xamF6gKudrPdnzWmyO9q82NS-S-paY9uLyZzBw/s378/MNCSports_%282020%29.png" group-title="Sports",MNC Sports
-http://www.goldentv.tech:25461/Bonek8/1234/41324
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157589
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO7aCEsokhZCw4eSbPRrQn4cnDxJXKUiF_jWJCXycbTkh1PUqv3-rjjcJCaCT0S_0L4EDeibHjKdq_PmX7mn9fBz7PNBABCTLXhglBAsJSgg5Qb4ysPrm3rNuph9CSEpYwRTlMhd6lWqDKV00-kg8U7ZUuJrhWai6fMGtMFwcob6t1hT1PQZ-CyxYzkw/s378/MNC_Sports_2_%282020%29.png" group-title="Sports",MNC Sports 2
-http://www.goldentv.tech:25461/Bonek8/1234/41325
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298548
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv9liJsRfKF_oLyIEhSQzY3fWbH2Cj-d_iLW6MNa4bZJqUqMnZrDtLkcXLC1qxkbwVJOTYbI4rTNPNmdlTyXIN9oc6ABuYxvOSVcAEsCmnnaQHbb0Yo7gn9kq1SUKlwlQg838q6lsKy86_bwiFMJhtmnOJ1v-8uwdeuqWUzo7nRafGFWa6rc15FwOZ_g/s150/channel_99-removebg-preview.png" group-title="Sports",MNC Sports 3
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298549
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Xwe9ZK43p-j0FqtypMwqlOzITq6xKLW5vPMUy76hryQDbXxVbv0qpl1Rn8qN_WOixiV84e5oWTQ7rE7gejFZcPY0mOcxE-jYiSfvLtqsI0T7kcuxawX0OCfu1cXPvqkd9NnAj6NUjnxT1SQAYoDLtNN9Oc5FfQzfUBomb-8DpTzpBo5-qAdr1aeTgQ/s1280/1280px-Premier_sports_logo_2018.svg.png" group-title="Sports",Premier Sports
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/03.m3u8
@@ -443,14 +462,11 @@ http://beetv.my.id/x/usee-fightsport-gojokkk.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6KL5BevDdeDGQdgZxIuWumKSh--tnaD5vbOS07vDrymL1M3UDkNX-47SBEme8Goas4VDPWP8eEVYFYAdYpJ9UumDDsOc5l0vt7aW6s9KvLA3o3vFITWHgnz9nUbkwAMr9lPo02L3FdyCcPlj41iW5WRVlf4oWcxvRXtuV1FYq4LHoGtYpfgD2-MwAzdOe/s1600/tvN_Sports-removebg-preview.png" group-title="Sports",-1  , tvN Sports
 http://122.129.115.66:1935/livedol/ch1340598/chunklist_w1295071604.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYfQs_C_YTsox4opZQWcpcezsL5Mvsj6TfGDSXTcvaTZiMGytFFM13VNwxndW9wQzXHpL_AhDNPi8gLPbcxt_XMgh8HkpepjSXRIOD7l-wlGj_BND8qrdcahYqnVLBYzMLPBx9Y4vJ7WVtbAS6U1YLRJfXPv1aX-wLvae77mSqYtNo5SXouPNOwTuhoA/s150/channel_101-removebg-preview.png" group-title="Sports",Soccer Channel
-http://www.goldentv.tech:25461/Bonek8/1234/22975
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggtDTiIViszfKmdFHwxb38BJbnD1ClUIGxBGokzeCSWo1yF5tlEtL6PrEWytb5PdmDsE7kRYGsviitKMeQ5-RNilcCUZNubeqQ6o6oz2WVfpBfThgdUZ20EqlJqsIZf2HwIgB75ZBYQLQyan6tTme-i3ZkCUeTX3KX-ZGOXArc9utZyH-hPbQoSA-nfw/s640/SPOTV_logo.svg.png" group-title="Sports",SPOTV
-http://www.goldentv.tech:25461/Bonek8/1234/25017
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_JSXXrnJmHOtczYuaapXXg6TV8tYhNnPcsh9JrLsf0oKz7nbi98TU9MuatLWCusPxWzIQi97kGid3twiy7U4Hw_DIVF4KHmwkGBSOLODTLTuYXl_572fsVifYqX-vBpozpeMjwJA9aTjLRfM9tm4JrqCbrCY6CAMlu8DomkBUblCE0Bt63dda1VG-RA/s436/SPOTV2_logo_2018.png" group-title="Sports",SPOTV 2
-http://www.goldentv.tech:25461/Bonek8/1234/39807
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yN4fSX7s/Red-Bull-TV-logo.png" group-title="Sports",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -458,7 +474,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #Religi
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-title="Religi",Al-Quran Al-Kareem TV
-http://www.goldentv.tech:25461/Bonek8/1234/39925
+http://beetv.my.id/x/usee-alquran-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi",TV Muhammadiyah
 http://beetv.my.id/x/usee-muhammadiyahtv-gojokkk.m3u8
