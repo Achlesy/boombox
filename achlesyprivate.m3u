@@ -163,16 +163,16 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg403production/ch252/03.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43HYGTrx/287-2873744-cinemax-logo-png-transparent-png-removebg-preview.png" group-title="Movies",Cinemax 
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197964
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197055
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221948
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
@@ -234,7 +234,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298555
 
 #Kids
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/v8rN8cTK/animax2.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="AniPlus.id" tvg-logo="https://i.postimg.cc/v8rN8cTK/animax2.png" group-title="Kids",Animax
 http://edge.linknetott.swiftserve.com/channelgroup2/cg201production/ch52/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xT9FXnb1/aniplus2.png" group-title="Kids",AniPlus
@@ -370,13 +370,13 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157592
 #EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="Entertainment",Arirang World
 http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/03.m3u8
 
-#EXTINF:-1 tvg-id="sgem" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",GEM 
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",GEM 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/03.m3u8
 
-#EXTINF:0 tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",tvN Asia
+#EXTINF:0 tvg-id="TVN.MACAN" tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",tvN Asia
 http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
+#EXTINF:-1 tvg-id="kPlus.id" tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",ONE Channel
@@ -394,7 +394,7 @@ http://beetv.my.id/x/usee-kix-gojokkk.m3u8
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="Entertainment",Hits Asia
 http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",DuniaLain
+#EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",DuniaLain
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298524
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png?20220310233458" group-title="Entertainment",TV 5 Monde
