@@ -130,7 +130,7 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u
 http://edge.linknetott.swiftserve.com/channelgroup3/cg328production/ch236/03.m3u8
  
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/cnbc.png" group-title="News",CNBC International
-https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/cnbceu-origin/live_720p/chunks.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2411)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.pixabay.com/photo/2016/09/20/10/30/sea-1682198_960_720.png" group-title="News",SEA Today 
 http://beetv.my.id/x/usee-seatoday-gojokkk.m3u8
