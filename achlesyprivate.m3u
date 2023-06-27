@@ -188,14 +188,14 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfCPfTXB/galaxy-removebg-preview.png" group-title="Movies",Galaxy
 http://beetv.my.id/x/usee-galaxy-gojokkk.m3u8
 
-#EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium Channel
+#EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264774
 
 #EXTINF:0 tvg-logo="https://companieslogo.com/img/orig/PARA_BIG-d8040ab9.png?t=1649781882" group-title="Movies",Paramount HD
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
 #EXTINF:-1 tvg-id="flik.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTh2SUHQrg1I_lWK1Vnbk1iqsPhTRiVMcQz_d_0VfN-hmpYqbtQOS9-E2fFtuq3dAMM3r3gY0AN_Zm_nATqwP_vI7yYLCbUhhSmtqQKze8rmBEn5Lmn8frjKbmkf94oD3oUv7uPHKc66Y49oZo0XNwIV1xxvCBr09oAwDguo2sh9ufZkabyAvkflOSGw/s200/flik-removebg-preview.png" group-title="Movies",FLiK
-http://beetv.my.id/x/usee-flik-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165095
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.postimg.cc/SRYwDD5R/citra-bioskop-channel-tv-logo.png" group-title="Movies",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
