@@ -257,7 +257,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162505
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="disney" tvg-logo="https://i.postimg.cc/mZvtL1CV/2019-Disney-Channel-logo-svg.webp",Disney Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh47N2As8xBe7k7TPGMx0i2B_OCyYf3usod_mMXoYnDvtUJOfQfzY9ellViTt1zCXZ4PrBL1Z-orMmuzfi4mAla8KkXAbRuJ5U7J6o7n6avUYan0E3r8fdyB9C5xOXVEwgFCJUsyqOWuiD0aHk31FXI2pZpY8wzEgMzUwnVdQ2LBOMiJaIKAX2e2WYnMcDJ/s1600/Logo_Disney_XD.svg.png" group-title="Kids",Disney XD
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/276564
 
 #EXTINF:-1 group-title="Kids" tvg-id="disneyJR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mczMuINPcO2PKgtbDQOBPjjv0iqmi7M0GgW1i6Fz1dxUegwBZaBytK9TquHrvKPkFVgka2UOLXpDReAUZu9CWt8-S1C_mesDhYBpePrhMxHMu1C8hxZb51eB8cb7xTVXJ0nnLJfzYR8wxpORBPhdIDY8si4_LgS9b-yR3GVFjJF6O5JT8_wOy1NaeJ0t/s1600/Disney_Junior_Logo_2020.png",Disney Junior
@@ -442,6 +442,12 @@ http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV ID
 http://beetv.my.id/x/usee-nba-gojokkk.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyBEv3Py1qAGNf4XBd9P4-bp4a_Tm9Jnbgv3PWJRbmBt7HICapO4JTYlkIJprhG4ckFjA1UT38UesKp7fsFcb8oJWdluU4j9NxEQx4f1o6khAG8AkkTZKj-f95Xv_aDSXy3_soF8uG8JOEGoGGdEm05L0mlpZztUU2Kaxkh46bKGTLt2cKYkb9AhP22CV6/s1600/Champions_TV_1_HD_29.png" group-title="Sports",-1  , Champions TV 1 HD
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsohK4KA4YsWoMHQDDRIYViWdKtex2_xSuu4nQueSqRBmaHvyk84ZTGqRMkHPbr0B4n71BI-G3dy0wPq1R3aajJLxoNU5F8B3uz7mDAtjvUFM1vVg4WDQRSnomCunxeK-_hj65Zsllc5tSNwoa5wmBSc9GtX_qn15kDWK0Mpg0kfj4hUiMtIfZ6W4D5nrn/s1600/Champions_TV_2_29.png" group-title="Sports",-1  , Champions TV 2 HD
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",Usee Sports 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
