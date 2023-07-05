@@ -327,6 +327,9 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/03.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hPvLJc36/prambors.png" group-title="Music",Prambors
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264761
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCfpSN7o5ofafiFbqGDJxj54Qn1qEq7vm6Cj51jFcfkBAaRmcEsCiZaCnhJ7CiBA8z_aqgRuPsmT76gHumODlvOHvfL8WO2vazN67xxdOBnXHlizrFAtoZy-5L-KbjktCipseDmGTY645mjAR-5z2Nb94RBSS9ZuwQP67ijI3Tw4LzpfQagF8hKrN4vei0/s1600/ikonser.png" group-title="Music",iKonser
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264760
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxQ5s6Zy/Music-TV-29.png" group-title="Music",MusicTV
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165108
 
@@ -440,10 +443,10 @@ http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV ID
 http://beetv.my.id/x/usee-nba-gojokkk.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyBEv3Py1qAGNf4XBd9P4-bp4a_Tm9Jnbgv3PWJRbmBt7HICapO4JTYlkIJprhG4ckFjA1UT38UesKp7fsFcb8oJWdluU4j9NxEQx4f1o6khAG8AkkTZKj-f95Xv_aDSXy3_soF8uG8JOEGoGGdEm05L0mlpZztUU2Kaxkh46bKGTLt2cKYkb9AhP22CV6/s1600/Champions_TV_1_HD_29.png" group-title="Sports",-1  , Champions TV 1 HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyBEv3Py1qAGNf4XBd9P4-bp4a_Tm9Jnbgv3PWJRbmBt7HICapO4JTYlkIJprhG4ckFjA1UT38UesKp7fsFcb8oJWdluU4j9NxEQx4f1o6khAG8AkkTZKj-f95Xv_aDSXy3_soF8uG8JOEGoGGdEm05L0mlpZztUU2Kaxkh46bKGTLt2cKYkb9AhP22CV6/s1600/Champions_TV_1_HD_29.png" group-title="Sports",Champions TV 1 HD
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsohK4KA4YsWoMHQDDRIYViWdKtex2_xSuu4nQueSqRBmaHvyk84ZTGqRMkHPbr0B4n71BI-G3dy0wPq1R3aajJLxoNU5F8B3uz7mDAtjvUFM1vVg4WDQRSnomCunxeK-_hj65Zsllc5tSNwoa5wmBSc9GtX_qn15kDWK0Mpg0kfj4hUiMtIfZ6W4D5nrn/s1600/Champions_TV_2_29.png" group-title="Sports",-1  , Champions TV 2 HD
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsohK4KA4YsWoMHQDDRIYViWdKtex2_xSuu4nQueSqRBmaHvyk84ZTGqRMkHPbr0B4n71BI-G3dy0wPq1R3aajJLxoNU5F8B3uz7mDAtjvUFM1vVg4WDQRSnomCunxeK-_hj65Zsllc5tSNwoa5wmBSc9GtX_qn15kDWK0Mpg0kfj4hUiMtIfZ6W4D5nrn/s1600/Champions_TV_2_29.png" group-title="Sports",Champions TV 2 HD
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",Usee Sports 1
