@@ -49,10 +49,10 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157578
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsswhr6FTJLjoAK7UtIROeduIPSvL8O_u-b52bzm6S3oi1qCWOczbMruEl92rqVPFQpPMkGCHsw02Vd_YlyEORx5EthjYexTteC_wUcr_60qHXQtbQ-YG8DjJqzIpD_tgdNaLCwWqSSamOXi_v9JkeFD3olt-O1HlSuSFOORmGXKqlt7pttMGdbmSikw/s1000/JTV_%28Indonesian_TV_channel%29_2022.png" group-title="Lokal Indonesia",jTV
-http://beetv.my.id/x/usee-jtv-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165091
 
 #EXTINF:-1  tvg-id="BALITV.id" group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",Bali TV
-http://beetv.my.id/x/usee-balitv-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197962
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/296214
@@ -70,7 +70,7 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/03.m3u
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Lokal Indonesia",RodjaTV
-http://beetv.my.id/x/usee-rodjatv-gojokkk.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772705.png" group-title="Lokal Indonesia",NET TV HD
 http://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
@@ -132,7 +132,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg328production/ch236/03.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2411)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn.pixabay.com/photo/2016/09/20/10/30/sea-1682198_960_720.png" group-title="News",SEA Today 
-http://beetv.my.id/x/usee-seatoday-gojokkk.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDkVxrSaUeXMp6vIBl_GFXn0-28pH-H-hxfmlFNsgQOwRVHcYwOFx7OebNsaG05rHVVddUPN7RhzYD9RtA6xOmGp318yLFbesIA_4mrU2ZASvA7zJrmttgZYEtYgoDoBuLHQvwkTTM_N806YNzCNA8tDpjocnhdssEJPAahIKOK6GGXVa39nVvn_xxgw/s1200/BBC_News_2022_%28Alt,_boxed%29.svg.png" group-title="News",BBC News
 http://edge.linknetott.swiftserve.com/channelgroup2/cg215production/ch310/03.m3u8
@@ -185,7 +185,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/03.m3u
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PfCPfTXB/galaxy-removebg-preview.png" group-title="Movies",Galaxy
-http://beetv.my.id/x/usee-galaxy-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264773
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/g2XD3fH5/galaxy-premium-removebg-preview.png" group-title="Movies",Galaxy Premium
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264774
@@ -276,7 +276,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298536
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264751
 
 #EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="\twork" tvg-logo="https://i.postimg.cc/fRc46BXV/car2.png" group-title="Kids",Cartoon Network
-http://beetv.my.id/x/usee-cartoonnetwork-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157593
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq6HmH2l8TjO00whn8OeLlIxTDUccbMlGJs0SSbQXCGBYsgGR4tv7pnfyrdrJK8cZ-evqukuU-cFa3u2iGcqMzQPpSR-52RaVgyK1QXvuT8N5k--WnrFIetu7VNITPZL82GVWW6xvX2mvO67N70cgbni4EqkxJihb2AdirZmV3s8BNQ7JZx4q-llUY7w/s1000/Cbeebies.png" group-title="Kids",CBeebies Asia
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/247448
@@ -389,7 +389,7 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/03.m3u
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157594
 
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-1vrIlMsth1Y/X6jBVoKArgI/AAAAAAAABvs/fkRLjRtjhRcCZcZGcE2DBwVwhjKOgfoXwCLcBGAsYHQ/w1200-h630-p-k-no-nu/1200px-KIX_logo.svg.png" group-title="Entertainment",KIX Asia
-http://beetv.my.id/x/usee-kix-gojokkk.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="Entertainment",Hits Asia
 http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/03.m3u8
@@ -435,13 +435,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb26
 #Sports
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
-http://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165105
 
 #EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
-http://beetv.my.id/x/usee-bein2-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298506
 
 #EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV ID
-http://beetv.my.id/x/usee-nba-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298558
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyBEv3Py1qAGNf4XBd9P4-bp4a_Tm9Jnbgv3PWJRbmBt7HICapO4JTYlkIJprhG4ckFjA1UT38UesKp7fsFcb8oJWdluU4j9NxEQx4f1o6khAG8AkkTZKj-f95Xv_aDSXy3_soF8uG8JOEGoGGdEm05L0mlpZztUU2Kaxkh46bKGTLt2cKYkb9AhP22CV6/s1600/Champions_TV_1_HD_29.png" group-title="Sports",Champions TV 1 HD
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
@@ -468,7 +468,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298549
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXMHxhX7cvSiGODFRUeTK2Z5a7PPjD9pOfxDZjpySgQUbln2oi0MUWXLwAJuosPyvixqpZJdrWBX0EEBn-mu-3Bbw4p9aasB6PIkoQ3ns8ukV9fSdL2ysM4GEwOdLi-5EPObzs7egYJSkShstjP_WSwauBxPlz_Jpv0-tni71FVnXmIz0mbT5BemhLdQ/s600/FIGHT_SPORTS_2018.png" group-title="Sports",Fight Sports
-http://beetv.my.id/x/usee-fightsport-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298531
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6KL5BevDdeDGQdgZxIuWumKSh--tnaD5vbOS07vDrymL1M3UDkNX-47SBEme8Goas4VDPWP8eEVYFYAdYpJ9UumDDsOc5l0vt7aW6s9KvLA3o3vFITWHgnz9nUbkwAMr9lPo02L3FdyCcPlj41iW5WRVlf4oWcxvRXtuV1FYq4LHoGtYpfgD2-MwAzdOe/s1600/tvN_Sports-removebg-preview.png" group-title="Sports",tvN Sports
 http://122.129.115.66:1935/livedol/ch1340598/chunklist_w1295071604.m3u8
@@ -485,10 +485,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #Religi
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_93.png" group-title="Religi",Al-Quran Al-Kareem TV
-http://beetv.my.id/x/usee-alquran-gojokkk.m3u8
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/45028
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi",TV Muhammadiyah
-http://beetv.my.id/x/usee-muhammadiyahtv-gojokkk.m3u8
+https://e.siar.us/live/tvmu.m3u8
 
 #EXTINF:-114 group-title="Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaCNcm8NuKSgV0e7F3NBFM0iVfRcV-hjmcgXeTQB83e3U5PerFd06WoQRVHM2jPBhVLoxPq1POYNo7iyxpRrqT_pDIkSxuexc-m2Fi2-nrgiwD9lq6cxxoowZA70l7UJyFJ9O4qodW0zWSvN0x8XQ4wVkeaR8GxY9-mLeWB5LBOTOdXgbsH2tP6w7rw/s667/citra_muslim-removebg-preview.png",Citra Muslim
 http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
