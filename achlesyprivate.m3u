@@ -1,11 +1,10 @@
-########### INI PRIVATE YAA BG, JGN NYOLONG!  -  PUNYA ACHLESY!!! #################
-########################### PLAYLIST FULL HLS FORMAT ##############################
+################################## INI PRIVATE YAA BG, JGN NYOLONG!  -  PUNYA ACHLESY!!! ##################################
+
+############################################## PLAYLIST FULL HLS FORMAT ###################################################
+
+################# https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230524_083422.mp4 #################
 
 #EXTM3U url-tvg="https://rebrand.ly/epgrepublictv1 , https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
-
-#Admin
-
-https://github.com/Achlesy/boombox/raw/main/km_20230513-1_1080p_30f_20230524_083422.mp4
 
 #Lokal Indonesia
 
@@ -25,7 +24,7 @@ http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJbf67ihwOgCeCv17PlY-dNo/ts
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772703.png" group-title="Lokal Indonesia",ANTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJSYe-0NzgDI7XfQZqMkrBrY/ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TK0dflQ.png" group-title="Lokal Indonesia",INDOSIAR
 http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJXQ45i3fRX0VvcJqxYg8V0k/ts
@@ -65,9 +64,6 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg341production/ch389/03.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1caPmP.png" group-title="Lokal Indonesia",JakTV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVWWnHcj/312f2-logo-elshinta.png" group-title="Lokal Indonesia",Elshinta TV
-https://op-group1-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Lokal Indonesia",RodjaTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
@@ -161,19 +157,19 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg403production/ch252/03.m3u
 #Movies
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/43HYGTrx/287-2873744-cinemax-logo-png-transparent-png-removebg-preview.png" group-title="Movies",Cinemax 
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJXUekoFIvMD9lu-fCbw13xI/ts
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJfA0SPi3fS6ftE8jrAUlHNs/ts
 
 #EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJT-2E5tlDJo3PG8VPHgbMZ4/ts
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJTqd9MUQbH1sITn752TI5kw/ts
 
 #EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJXJYKfRurLsTm3Syo6V2Ab0/ts
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJbscZOPYv1F7NSKQDoyr5vw/ts
 
 #EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJYK_8Tzc4jEWxSoe2L6Ih4A/ts
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJWuHVMc7rAHEiyAmRxdCdT0/ts
 
 #EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJaeAHOm9uX7tOoMlIMgNwA0/ts
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJQ6tjYhS3ub3qf-ofKZZ58g/ts
 
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
 http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJW1dOw_iXSpkGNXgB2D68uM/ts
