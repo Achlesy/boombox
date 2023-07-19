@@ -21,7 +21,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJbf67ihwOgCeCv17PlY-dNo/ts
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772699.png" group-title="Lokal Indonesia",TransTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJd3OGqYTzqZubQCrOxft4gI/ts
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772703.png" group-title="Lokal Indonesia",ANTV
 http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJSYe-0NzgDI7XfQZqMkrBrY/ts
@@ -249,8 +249,6 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg233production/ch372/03.m3u
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162505
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHPiKl8tHk6KVcnVD-n5KouPGM_F-3H867HhSD8J5n6Zf-Sw-FzcH6OSPwpBLhJ1rw_wJ9wmt4BUTmuEkk-LMGWIOau6iMDQYNLtnqNa_nemdRSx4l_CEHuUe3bBTpnlmOhFCTGpUUKQf1Aedc-Lj-Vt1uCjSKC_O740dliqX3NvBLlB147K4l3lU0sw/s4167/Moonbug2ndLogo.png" group-title="Kids",Moonbug Kids
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="disney" tvg-logo="https://i.postimg.cc/mZvtL1CV/2019-Disney-Channel-logo-svg.webp",Disney Channel
@@ -293,7 +291,7 @@ http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJe89v5s2BO1UdymasP1OltY/ts
 http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJTiUN_9wGcGKws-XXxr7s0g/ts
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJdJSx6DVxauP9TG96ivRlZA/ts
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162510
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg58ShC_Yr48ix3zDVmYhzNXVvk1eTYDEgPa65ezdKJiIszCspVmaa4DQ_rRwjoAWoAZvadmIXvhFAposE9W2BrgUfw5UKyGlAVo8ArBfKhEO8Rvpx4Fc93zXqmVViELad6NY66d0gLRI2UGQ1ZNp7aIE4Azg-pZfiB4T5XK4_yvw-lS4SXF86obmfH5w/s2566/UPLOAD-1655920070-.png" group-title="Kids",My Kidz
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
@@ -451,9 +449,6 @@ http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJeQBO1rYZYRIZ5baOlt6UQI/ts
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv9liJsRfKF_oLyIEhSQzY3fWbH2Cj-d_iLW6MNa4bZJqUqMnZrDtLkcXLC1qxkbwVJOTYbI4rTNPNmdlTyXIN9oc6ABuYxvOSVcAEsCmnnaQHbb0Yo7gn9kq1SUKlwlQg838q6lsKy86_bwiFMJhtmnOJ1v-8uwdeuqWUzo7nRafGFWa6rc15FwOZ_g/s150/channel_99-removebg-preview.png" group-title="Sports",MNC Sports 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298549
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYfQs_C_YTsox4opZQWcpcezsL5Mvsj6TfGDSXTcvaTZiMGytFFM13VNwxndW9wQzXHpL_AhDNPi8gLPbcxt_XMgh8HkpepjSXRIOD7l-wlGj_BND8qrdcahYqnVLBYzMLPBx9Y4vJ7WVtbAS6U1YLRJfXPv1aX-wLvae77mSqYtNo5SXouPNOwTuhoA/s150/channel_101-removebg-preview.png" group-title="Sports",-1  , Soccer Channel
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJUYkcnu1sZ4NrJBdEV699gA/ts
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Xwe9ZK43p-j0FqtypMwqlOzITq6xKLW5vPMUy76hryQDbXxVbv0qpl1Rn8qN_WOixiV84e5oWTQ7rE7gejFZcPY0mOcxE-jYiSfvLtqsI0T7kcuxawX0OCfu1cXPvqkd9NnAj6NUjnxT1SQAYoDLtNN9Oc5FfQzfUBomb-8DpTzpBo5-qAdr1aeTgQ/s1280/1280px-Premier_sports_logo_2018.svg.png" group-title="Sports",Premier Sports
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/03.m3u8
 
@@ -478,13 +473,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://op-group2-swiftservesd-1.dens.tv/s/s28/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi",TV Muhammadiyah
-https://e.siar.us/live/tvmu.m3u8
+http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJYG0Ryhp76XZnaFz1K7FNeM/ts
 
 #EXTINF:-114 group-title="Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaCNcm8NuKSgV0e7F3NBFM0iVfRcV-hjmcgXeTQB83e3U5PerFd06WoQRVHM2jPBhVLoxPq1POYNo7iyxpRrqT_pDIkSxuexc-m2Fi2-nrgiwD9lq6cxxoowZA70l7UJyFJ9O4qodW0zWSvN0x8XQ4wVkeaR8GxY9-mLeWB5LBOTOdXgbsH2tP6w7rw/s667/citra_muslim-removebg-preview.png",Citra Muslim
 http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxNdXbFR/tawaftv-removebg-preview.png" group-title="Religi",Tawaf TV
-https://tawaftv.b-cdn.net/hls/hanyacoba.m3u8
+https://ttvz.b-cdn.net/hls/hanyacoba.m3u8
 
 #China
 
