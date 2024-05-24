@@ -8,9 +8,6 @@
 
 #Lokal Indonesia
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6GF6361/logo-useeprime-ver1.png" group-title="Lokal Indonesia",Usee Prime
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772695.png" group-title="Lokal Indonesia",TVRI Nasional
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
@@ -21,67 +18,43 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJbf67ihwOgCeCv17PlY-dNo/ts
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772699.png" group-title="Lokal Indonesia",TransTV
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJd3OGqYTzqZubQCrOxft4gI/ts
+https://cdn09jtedge.indihometv.com/joss/133/transtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772703.png" group-title="Lokal Indonesia",ANTV
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJSYe-0NzgDI7XfQZqMkrBrY/ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmHTpuGE_7GcKmRkVUAQmrT2mX2KHdLmbZxrdws3q5nVd59Tu8ggKHGrYtF8hHantD_bO8JPi43BMCyqZLTjZngXBAqhDeIS5KRe_D8D124QeMkLyvgEx9vZccVlpK3-YSNbZCInW6S3YuWJY4HW8g5Pg5rQ6THNQWAxqdqfuhlBxeK3jY9hdnGHIZLq2m/s1200/Antv_logo.svg.png" group-title="Lokal Indonesia",ANTV
+https://cdn09jtedge.indihometv.com/joss/130/antv720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TK0dflQ.png" group-title="Lokal Indonesia",INDOSIAR
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJXQ45i3fRX0VvcJqxYg8V0k/ts
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaRnJ0FvvWXKk8NJfetGVJzXM_xqO16Yjo7PDRQtw5DH-YIvQ5ljgr0edr_sQ8A2gObezQLcCmuaQDB2l5DDlJiwVMSBStELWwG58B1EcasQh2JKjUrp76zlgr9XctisnFiAPVpPL_YoDFIyZrS8o7edhBEV43cJzjw4gyzCQRWKeijId-gou2Z2_7U6EE/s1200/TK0dflQ.png" group-title="Lokal Indonesia",INDOSIAR
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCupzni.png" group-title="Lokal Indonesia",RCTI
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJQyl1qNRjpxvAijjUyQ6080/ts
-
-#EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JH1rTEiqoCd7CyoRpUoM0t_mWJU_jLHSNKqbK6lsuCef.png" group-title="Lokal Indonesia",MNCTV
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJQE8Q0kavkWIDt51rs97eko/ts
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhduPyvtC_BWKB6z9OX-zRzqY4Qu-APtzJkNKUx31VtAkU0PgCdnqyNdJ9ukzyXeW3jsN-TRfoqgVNyCjh1RvbWfp5zsJX50fhh1wdpMLQYBQM4jZIA6K9_XVCTKVyt_GBY-M8MuMaQLnsQbgQtqAN_leo7n8SE304gnCYLLNULTdm0wCfOgUo6GgSOaA/s2533/INews.png" group-title="Lokal Indonesia",iNews
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJYN3WfKaLjA5phcZQFXF_wo/ts
-
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772701.png" group-title="Lokal Indonesia",SCTV
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJUgFy-SHPFPPDSlqVhtJZs8/ts
-
-#EXTINF:-1 tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JOez6rSfs43DrLKgI2i76lfuBKVpH03ukCix2B2dMF94.png" group-title="Lokal Indonesia",GTV
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJXOqWXViu7hZlCqFaWwBcsU/ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yLiKLbD.png" group-title="Lokal Indonesia",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RcF-oXOL17OxWM1Vpr2k0vaD2-YbV-owdhlCRu7NHizC-DtBMMU9pl2130kBbifrfrcm7qKxfs_EeGhBKZxZlbaCjuI63zrISSpb6xjHCm1AfQd-fLnaDRumYusDGxsXAqS4jnO9AFMqflKSg_9IlNtNW1QCyNEjrV6_H4d7PPn3DgdPLTh9arooedYz/s1616/yLiKLbD.png" group-title="Lokal Indonesia",RTV
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsswhr6FTJLjoAK7UtIROeduIPSvL8O_u-b52bzm6S3oi1qCWOczbMruEl92rqVPFQpPMkGCHsw02Vd_YlyEORx5EthjYexTteC_wUcr_60qHXQtbQ-YG8DjJqzIpD_tgdNaLCwWqSSamOXi_v9JkeFD3olt-O1HlSuSFOORmGXKqlt7pttMGdbmSikw/s1000/JTV_%28Indonesian_TV_channel%29_2022.png" group-title="Lokal Indonesia",jTV
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJQCdEdrSssfQjBnznrWwh2Q/ts
+https://cdn09jtedge.indihometv.com/joss/134/jtv/index.m3u8
 
 #EXTINF:-1  tvg-id="BALITV.id" group-title="Lokal Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png",Bali TV
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197962
+https://cdn09jtedge.indihometv.com/joss/134/balitv/index.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="Lokal Indonesia",TVONE
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJR2RznajLeWQFWiFe_6HN7M/ts
+https://cdn09jtedge.indihometv.com/joss/134/tvone720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dQdvgv00/TV9-NUSANTARA1.png" group-title="Lokal Indonesia",TV9 Nusantara
-http://edge.linknetott.swiftserve.com/channelgroup5/cg503production/ch352/03.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_lwoLLMxfNivyQEtzDufQ-ndG4X9LezQmw-tyUbzC1zbYXB61LlbAKtIEAVR9NhZGTU3smX0uL8DgvelEGO8G4y3fbo9es35_8oJj3T_0syFvQI_w82qvnFOUMjXOD5jgCgzzdslDnh9klaW2R9thskMLd-aO-qLkpK5K8Zf-fp6zMfO_jeGggSrSxr5/s268/TV9-NUSANTARA1.png" group-title="Lokal Indonesia",TV9 Nusantara
+https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://d1io3yog0oux5.cloudfront.net/_cdd5ea87a1d8b97db98a193ff659cb9e/mainstcapital/db/Companies/5884/logo_resized.png" group-title="Lokal Indonesia",IDX Channel
-http://edge.linknetott.swiftserve.com/channelgroup3/cg341production/ch389/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D1caPmP.png" group-title="Lokal Indonesia",JakTV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4FhCjRB/Rodja-TV.png" group-title="Lokal Indonesia",RodjaTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Etmwnt28plNsfFPSzmDS7xNLf3kPGzzGuNFI9GVJvqyL1EUuG86mFo0DPpFatO-kjvOkVsUzO-dDhAOgkRK5FY46_Kevh1n_njlV_zHri6lh4dW5yP8vwkCFGyFb_yo364BZqtf01zlYYPfs-kEkM6bolzIt8rFzNec2HCMUAaNK3KtI-tzONzQlWbf5/s852/Rodja-TV.png" group-title="Lokal Indonesia",RodjaTV
+https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772705.png" group-title="Lokal Indonesia",NET TV HD
-http://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZFJCzqX/Moji-blue-svg.webp" group-title="Lokal Indonesia",MojiTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9swsNFjX-SOJ75XvZIfdQ6oMSU5am1Rya6JaOzb2K7QJeVbcnjY7okAY9KNaEr6W4Qd9LvUB06JwUioAygdOgdYr07XVk3krnvu1EhympswjgtkNq0-4sFiR_eZWE-3s8-fyLJ1dDmgltPtKAIZjURAerngeiy-_Gui7jL8cmWAr0X2mnkfoCB2yG5xCK/s1200/Moji-blue-svg.png" group-title="Lokal Indonesia",MojiTV
+https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" group-title="Lokal Indonesia",Metro TV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg536production/ch394/03.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/metrotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/fb4d4dc0-e7d7-11ed-9cfe-055212c7bfef/4706163/833772706.png" group-title="Lokal Indonesia",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jTsmXQK/BN-Channel.png" group-title="Lokal Indonesia",BN Channel
-http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU0-KV9xmRUIBNseQC6mVUNyMVETDbK44fl_4Bgye9HLc8Zr61NHJjoN5B5fTiNuolJEQSh_HMGM05ZZ1VUcnLGHM-NGnPm0fSkKVwPfXys7fzEYvR9bqeITJh5UjwdIhgFXVZ39PhVl2rtZmNR6cCEh3CoUK4pOYy86GngI2xJvjrPdMpQO80VWEciA/s200/Metro_Globe_Network.png" group-title="Lokal Indonesia",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w1067563232_b3884000_sleng.m3u8
@@ -90,10 +63,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w1067563232_b3884000_
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-DVgvtt30dME/Tr8p3tqcoOI/AAAAAAAAH-U/TlrVGkQkYNA/s1600/kompas_tv_id.png" group-title="Lokal Indonesia",Kompas TV
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJV6pZU1ARRSoQJjokjV7hhk/ts
+https://cdn09jtedge.indihometv.com/joss/133/kompastv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nzt3dJ7.png" group-title="Lokal Indonesia",JawaPos TV
-https://v2.siar.us/jawapostv/live/chunks.m3u8
+https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKR9dNfw/GarudaTv.png" group-title="Lokal Indonesia",GarudaTV
 http://103.119.54.246:8080/hls/bbstv.m3u8
@@ -156,26 +129,11 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg403production/ch252/02.m3u
 
 #Movies
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43HYGTrx/287-2873744-cinemax-logo-png-transparent-png-removebg-preview.png" group-title="Movies",Cinemax 
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJfA0SPi3fS6ftE8jrAUlHNs/ts
-
-#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-logo="https://i.postimg.cc/SKhTC4ns/HBO2.png" group-title="Movies",HBO
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJTqd9MUQbH1sITn752TI5kw/ts
-
-#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://i.postimg.cc/kXLhMK9W/hbohits22.png" group-title="Movies",HBO Hits
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJbscZOPYv1F7NSKQDoyr5vw/ts
-
-#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-logo="https://i.postimg.cc/zXyc10mJ/hboff33.png" group-title="Movies",HBO Family
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJWuHVMc7rAHEiyAmRxdCdT0/ts
-
-#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://i.postimg.cc/ZY7MgXM7/hbosig2.png" group-title="Movies",HBO Signature
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJQ6tjYhS3ub3qf-ofKZZ58g/ts
-
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest?cb=20170606050150" group-title="Movies",Thrill
 https://op-group2-swiftservesd-1.dens.tv/s/s34/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="Movies",TvN Movies
-http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/03.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXdIp-mJgecCzHNg2fmdzzbO3AMK7OVuNB2gU19-aKPidWouQDx_qkgqrtkc4px4vGk2suJQ-Uo0PJgpQPtmxGKD-ofXqqg45oV-V5FKw7KkE1odpaX2sJpSCBKAOj3SGuTsizcZu6jdI3Bv46Kdo99zjwfm1fSSmu5t-NVcmpImOFO3PYdAtUB2r3RNL4/s512/tvnm2.png" group-title="Movies",TvN Movies
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Movies",Citra Drama
 http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
@@ -321,11 +279,8 @@ http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJcJbdm-UOflVSFpF4yRw1is/ts
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIR9vzfEq3yx7743hbwFdUGGpTTRgXCpO2vyV_3sw4RoOfQ4S80F9saZstNPSmyHEsJnYV5xssWjTV_kVlL__DqAKeEc7y1bt9sZZt82BrNK668gIueTuTnxkzgEteMstGKWGIL6a4DoMMArlqnfMUDqiE5XLAe-TJ52JO2JOklFBAooIikHI36rG8_g/s625/cdangdut-removebg-preview.png" group-title="Music",Citra Dangdut
 http://edge.linknetott.swiftserve.com/channelgroup4/cg438production/ch377/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hPvLJc36/prambors.png" group-title="Music",Prambors
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264761
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCfpSN7o5ofafiFbqGDJxj54Qn1qEq7vm6Cj51jFcfkBAaRmcEsCiZaCnhJ7CiBA8z_aqgRuPsmT76gHumODlvOHvfL8WO2vazN67xxdOBnXHlizrFAtoZy-5L-KbjktCipseDmGTY645mjAR-5z2Nb94RBSS9ZuwQP67ijI3Tw4LzpfQagF8hKrN4vei0/s1600/ikonser.png" group-title="Music",iKonser
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264760
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOFM8DdMZLQ7Xduy0PktLHSsNKA3GzlZVdsZ_84HjEOQdGUZhE11lZ5nOOQzx8AA4yWU5nf3NUdif5EpLv125JqEZb7vhZS1a8m3ZhPnUheDVRLWfMXBJij3NIZN9PsSWyNPrLmacxoMQEH200-gjZ0XvUhi-kC8_2GSWye9WB0IGLPTewuwlhk63cPf9u/s88/prambors.png" group-title="Music",Prambors TV
+https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wxQ5s6Zy/Music-TV-29.png" group-title="Music",MusicTV
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165108
@@ -355,17 +310,17 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157592
 #EXTINF:0 tvg-logo="http://www.shockya.com/news/wp-content/uploads/Arirang-TV.png" group-title="Entertainment",Arirang World
 http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/03.m3u8
 
-#EXTINF:-1 tvg-id="GEMChannel.id" tvg-logo="https://i.postimg.cc/fW52HZ26/Gem-TV-logo-2020.png" group-title="Entertainment",GEM 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/03.m3u8
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3OCbNwmd7Gtgf96YfBAT63nqNKuIq3DrLWAjgXYzaYcbb3YhyphenhyphenX4w-lhQyo_5f5XLgdoWB32353UGwpugdzpXcOYR9VSVFSqy8oRVdNIBFN5QN7GjRGLrlDvVuzMgSB31T1CxUa0BAftkRv8y13TtETfbWHX3Y6l2RBVB0x8Zs5lCAAE4-uo0DsrVz4qi/s1194/Gem_TV_logo_2020.png" group-title="Entertainment",GEM 
+https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8
 
-#EXTINF:0 tvg-id="TVN.MACAN" tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",tvN Asia
-http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/03.m3u8
+#EXTINF:0 tvg-id="TVN.MACAN" tvg-logo="http://kpoplove.koreadaily.com/wp-content/uploads/2019/01/2000px-Logo_tvN.svg_-1058x420.png" group-title="Entertainment",tvN Indonesia
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="kPlus.id" tvg-logo="https://i.postimg.cc/L64H7ztN/K-Plus-Asia-Logo-removebg-preview.png" group-title="Entertainment",K Plus
 http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://ogietv.biz.id:443/images/QCqX5p5x3Y181Q8jwb82JN-MZlOkjiHJM6b57ITrJ1WG1RxxQwp2YxQacVKdu2t9.png" group-title="Entertainment",ONE Channel
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJTnwkNfbErf7BxARDEEuXW4/ts
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://www.seekpng.com/png/full/357-3578556_open-tv-one-logo-nz.png" group-title="Entertainment",ONE Channel
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02VN26tc/2560px-AXN-logo-2015-svg.png" group-title="Entertainment",AXN
 http://edge.linknetott.swiftserve.com/channelgroup5/cg543production/ch332/03.m3u8
@@ -379,8 +334,8 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg256production/ch336/03.m3u
 #EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="Hits" tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="Entertainment",Hits Asia
 http://edge.linknetott.swiftserve.com/channelgroup4/cg433production/ch326/03.m3u8
 
-#EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-logo="https://i.postimg.cc/VNJqJHR6/dunia22.png" group-title="Entertainment",DuniaLain
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJUTVsu9NqWUNO6ybCCDuJg0/ts
+#EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC6iSnWy4KGDxrQCQ-pbdrzN0tXZpaCe6Z2-QpjkOcG1plvpswX8xXcn2lTAiWqwv3bzZcyaK7oVDqTGtZ8xhVzdWu2nOlZ-Eyeb4li3JFh_9X7wt7vJSTsupQzoMBJKod7S32t628cQkMqrL6XfNkD81paeT7_-2L_EZtorPpZk1Yok-MDAB27yiiAsUc/s999/Dunia_Lain_TV.png" group-title="Entertainment",DuniaLain
+https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/1200px-Logo_TV5_Monde_-_2021.svg.png?20220310233458" group-title="Entertainment",TV 5 Monde
 http://edge.linknetott.swiftserve.com/channelgroup4/cg420production/ch260/03.m3u8
@@ -419,20 +374,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561c5f613286e48904fb26
 
 #Sports
 
-#EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJYlNca5KyvCnzeujBG11xjI/ts
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1indonesia.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhG9BaneayhoHbn8AcQsiQsPpg5s-6y9tFOJIeJhkIBS0m1_Bu1Uxaz22jIDqqyTq1rixeUIC5aleqzthu8rTLLNoXFPuF9NqqDxXwwVW9oWRmP5dmVRNyz_jeYzZcGEHbMNkOYr8umF4VK62urKSM8LL3prdsn1GY6SXm7uYMAQ3WclOSYBrCKVcxuFGe/s220/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 1
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJX4FksK6LCDQFK6fZob6cnY/ts
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3indonesia.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuoOVjP1OasWSE2g67gg65r3SLPgvMD23cwWKOnIUMoSu_1gl71fDx2VhbG1eSI7qOW2IoPr9tykO9xih1RnbZUyGFN0G8PwTAoPfY0a2m4BWGG6FmFCp5iWHJZ1mgQsJdmAZQz9jP2IcKuqb9xoYe0xKz6ckFpNv7FTrTB_pgRm8PLIe3dUP62IH9iPjw/s220/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Indonesia 3
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://i.postimg.cc/MZ47RQ43/NBATV-removebg-preview.png",NBA TV ID
-http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJdpUJH_mW1mJZyEqstvQ7Bg/ts
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyBEv3Py1qAGNf4XBd9P4-bp4a_Tm9Jnbgv3PWJRbmBt7HICapO4JTYlkIJprhG4ckFjA1UT38UesKp7fsFcb8oJWdluU4j9NxEQx4f1o6khAG8AkkTZKj-f95Xv_aDSXy3_soF8uG8JOEGoGGdEm05L0mlpZztUU2Kaxkh46bKGTLt2cKYkb9AhP22CV6/s1600/Champions_TV_1_HD_29.png" group-title="Sports",Champions TV 1 HD
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsohK4KA4YsWoMHQDDRIYViWdKtex2_xSuu4nQueSqRBmaHvyk84ZTGqRMkHPbr0B4n71BI-G3dy0wPq1R3aajJLxoNU5F8B3uz7mDAtjvUFM1vVg4WDQRSnomCunxeK-_hj65Zsllc5tSNwoa5wmBSc9GtX_qn15kDWK0Mpg0kfj4hUiMtIfZ6W4D5nrn/s1600/Champions_TV_2_29.png" group-title="Sports",Champions TV 2 HD
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
+#EXTINF:-1 group-title="Sports" tvg-id="nbatv.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfJ6l4-q_P8CxcE3Dz3anaNdA4b03rj4UxZzP-l-rEszsPpLYSC6Sl9Aaus-2cuvZ1aNYVX2Vqv8b9qwNIlK3L7ZyAyj20Ts2fTikDem9er7n9CxivmHygwt65HYaQbLCKuEKH6giP6a8FOchBwbgx2QKtm00MIuagc5hRH2_Vnl0gmj9DcZu-FeffBtDg/s500/NBATV-removebg-preview.png",NBA TV ID
+https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J4hRsh3Z/logo-useesport-ver1.png" group-title="Sports",Usee Sports 1
 http://ogietv.biz.id:80/play/GjQpg2LQbGUodQk5TlyNJQpn-dufoJJSTAyhhOelQEM/ts
